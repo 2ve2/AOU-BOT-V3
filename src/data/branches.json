@@ -1,0 +1,1393 @@
+{
+  "branches": [
+    {
+      "branch_name": {
+        "ar": "الرياض",
+        "en": "Riyadh"
+      },
+      "departments": [
+        {
+          "department_name": {
+            "ar": "القبول و التسجيل",
+            "en": "Admission and Registration"
+          },
+          "info": {
+            "ar": [
+              "• معادلة المقررات\n",
+              "• إضافة / حذف او الانسحاب من مقرر\n",
+              "• التسجيل المتأخر\n",
+              "• تأجيل الفصل الدراسي\n",
+              "• الانتقال بين الكليات أو البرامج أو المسارات\n",
+              "• الانتقال الى فرع دولي أو محلي للجامعة\n",
+              "• الانسحاب من الجامعة\n",
+              "• طلب سجل اكاديمي رسمي\n",
+              "• إجراءات التخرج / وثائق التخرج\n"
+            ],
+            "en": [
+              "• Course Equivalency\n",
+              "• Add / Drop or Withdraw from a Course\n",
+              "• Late Registration\n",
+              "• Deferring the Semester\n",
+              "• Transferring Between Colleges, Programs, or Tracks\n",
+              "• Transferring to an International or Local Branch\n",
+              "• Withdrawal from the University\n",
+              "• Request for Official Academic Transcript\n",
+              "• Graduation Procedures / Graduation Documents\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "ar@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "حسن محمد العمودي",
+                "en": "Hassan Al-Amoudi"
+              },
+              "email": "h.alamody@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "بدر الشهري",
+                "en": "Bader Al-Shehri"
+              },
+              "email": "b.alshehri@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "هيا الخشلان",
+                "en": "Haya Al-Kashlan"
+              },
+              "email": "h.alkashlan@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عهود الحواش",
+                "en": "Ahood Al-Hawash"
+              },
+              "email": "a.alhawsh@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "ريما رضوان",
+                "en": "Reema Radwan"
+              },
+              "email": "abeerm@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "شؤون الطلبة والخريجين",
+            "en": "Student and Graduate Affairs"
+          },
+          "info": {
+            "ar": [
+              "• إصدار البطاقات الجامعية\n",
+              "• طلب المنح الدراسية\n",
+              "• طلب إفادة للطالب\n",
+              "• تأجيل الاختبارات\n",
+              "• الأندية الطلابية والأنشطة الطلابية\n",
+              "• الخدمات الصحية والنفسية\n",
+              "• كافيتريا الجامعة\n",
+              "• استفسارات المجلس التأديبي\n"
+            ],
+            "en": [
+              "• Issuing University ID Cards\n",
+              "• Requesting Scholarships\n",
+              "• Requesting Student Certificate\n",
+              "• Deferring Exams\n",
+              "• Student Clubs and Student Activities\n",
+              "• Health and Psychological Services\n",
+              "• University Cafeteria\n",
+              "• Disciplinary Council Inquiries\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "std.affairs@arabou.edu.as"
+            },
+            {
+              "name": {
+                "ar": "بندر الدويش",
+                "en": "Bander Al-Duwish"
+              },
+              "email": "b.aldawish@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عفاف العنزي",
+                "en": "Afaf Al-Anazi"
+              },
+              "email": "a.alanazi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "هيا البيشي",
+                "en": "Haya Al-Beeshi"
+              },
+              "email": "h.albeeshi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "بدور القحطاني",
+                "en": "Bador Al-Qahtani"
+              },
+              "email": "b.alqahtani@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الشؤون المالية",
+            "en": "Financial Affairs"
+          },
+          "info": {
+            "ar": [
+              "• الرسوم والدفع الإلكتروني لـ\n",
+              "• التسجيل أو حذف الجدول الدراسي\n",
+              "• الاعتراضات\n",
+              "• تأجيل الاختبارات\n",
+              "• إفادات الطلاب\n",
+              "• طلبات التقسيط\n",
+              "• شهادة التخرج / عباءة التخرج\n",
+              "• اجراء الاختبار في فرع آخر\n",
+              "• الانتقال الى فرع آخر\n",
+              "• إعادة الجلوس للامتحان النهائي\n"
+            ],
+            "en": [
+              "• Fees and Electronic Payment for\n",
+              "• Registration or Dropping the Study Schedule\n",
+              "• Appeals\n",
+              "• Deferring Exams\n",
+              "• Student Certificates\n",
+              "• Installment Requests\n",
+              "• Graduation Certificate / Graduation Gown\n",
+              "• Taking Exam at Another Branch\n",
+              "• Transferring to Another Branch\n",
+              "• Retaking Final Exams\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "finance@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "وائل أبو رمضان",
+                "en": "Wael Abu Ramadan"
+              },
+              "email": "wael@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عبدالله المطيري",
+                "en": "Abdullah Al-Mutairi"
+              },
+              "email": "a.almuteri@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "ندى عبدالقادر",
+                "en": "Nada Abdulqader"
+              },
+              "email": "nadafaiz@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الدعم الفني",
+            "en": "Technical Support"
+          },
+          "info": {
+            "ar": [
+              "• معالجة المشاكل التقنية المتعلقة بـ\n",
+              "• الإيميل الجامعي\n",
+              "• نظام معلومات الطالب SIS\n",
+              "• نظام التعلم الإلكتروني LMS\n",
+              "• اختبارات الأونلاين\n",
+              "• حضور المحاضرات عن بعد\n"
+            ],
+            "en": [
+              "• Handling Technical Issues Related to\n",
+              "• University Email\n",
+              "• Student Information System SIS\n",
+              "• Learning Management System LMS\n",
+              "• Online Exams\n",
+              "• Attending Lectures Remotely\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام",
+                "en": "General Email"
+              },
+              "email": "LMS@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "أحمد النمراوي",
+                "en": "Ahmed Al-Nemrawi"
+              },
+              "email": "a.nemrawi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "وليد الفعيم",
+                "en": "Walid Al-Faeem"
+              },
+              "email": "w.alfaeem@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "أريج السعيد",
+                "en": "Areej Al-Saeed"
+              },
+              "email": "a.saeed@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "سارة أحمد",
+                "en": "Sara Ahmed"
+              },
+              "email": "s.ahmed@arabou.edu.sa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "branch_name": {
+        "ar": "جدة",
+        "en": "Jeddah"
+      },
+      "departments": [
+        {
+          "department_name": {
+            "ar": "القبول و التسجيل",
+            "en": "Admission and Registration"
+          },
+          "info": {
+            "ar": [
+              "• معادلة المقررات\n",
+              "• إضافة / حذف او الانسحاب من مقرر\n",
+              "• التسجيل المتأخر\n",
+              "• تأجيل الفصل الدراسي\n",
+              "• الانتقال بين الكليات أو البرامج أو المسارات\n",
+              "• الانتقال الى فرع دولي أو محلي للجامعة\n",
+              "• الانسحاب من الجامعة\n",
+              "• طلب سجل اكاديمي رسمي\n",
+              "• إجراءات التخرج / وثائق التخرج\n"
+            ],
+            "en": [
+              "• Course Equivalency\n",
+              "• Add / Drop or Withdraw from a Course\n",
+              "• Late Registration\n",
+              "• Deferring the Semester\n",
+              "• Transferring Between Colleges, Programs, or Tracks\n",
+              "• Transferring to an International or Local Branch\n",
+              "• Withdrawal from the University\n",
+              "• Request for Official Academic Transcript\n",
+              "• Graduation Procedures / Graduation Documents\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "أمير العجمي",
+                "en": "Amer Al-Ajami"
+              },
+              "email": "aalagami@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "فهد الروقي",
+                "en": "Fahad Al-Roqi"
+              },
+              "email": "f.alroge@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "يحيى الجيزاني",
+                "en": "Yahya Al-Jizani"
+              },
+              "email": "y.aljizani@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "مرام الجاسر",
+                "en": "Maram Al-Jasser"
+              },
+              "email": "mjasser@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عبير مدني",
+                "en": "Abeer Madani"
+              },
+              "email": "abeerm@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "شؤون الطلبة والخريجين",
+            "en": "Student and Graduate Affairs"
+          },
+          "info": {
+            "ar": [
+              "• إصدار البطاقات الجامعية\n",
+              "• طلب المنح الدراسية\n",
+              "• طلب إفادة للطالب\n",
+              "• تأجيل الاختبارات\n",
+              "• الأندية الطلابية والأنشطة الطلابية\n",
+              "• الخدمات الصحية والنفسية\n",
+              "• كافيتريا الجامعة\n",
+              "• استفسارات المجلس التأديبي\n"
+            ],
+            "en": [
+              "• Issuing University ID Cards\n",
+              "• Requesting Scholarships\n",
+              "• Requesting Student Certificate\n",
+              "• Deferring Exams\n",
+              "• Student Clubs and Student Activities\n",
+              "• Health and Psychological Services\n",
+              "• University Cafeteria\n",
+              "• Disciplinary Council Inquiries\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "jeddah.stdaffairs@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "سعد القحطاني",
+                "en": "Saad Al-Qahtani"
+              },
+              "email": "Std.affairs@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "محمد المطرفي",
+                "en": "Mohammed Al-Matrafi"
+              },
+              "email": "m.almatrafi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "آمال دبيس",
+                "en": "Amal Dubais"
+              },
+              "email": "a.dubais@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الشؤون المالية",
+            "en": "Financial Affairs"
+          },
+          "info": {
+            "ar": [
+              "• الرسوم والدفع الإلكتروني لـ\n",
+              "• التسجيل أو حذف الجدول الدراسي\n",
+              "• الاعتراضات\n",
+              "• تأجيل الاختبارات\n",
+              "• إفادات الطلاب\n",
+              "• طلبات التقسيط\n",
+              "• شهادة التخرج / عباءة التخرج\n",
+              "• اجراء الاختبار في فرع آخر\n",
+              "• الانتقال الى فرع آخر\n",
+              "• إعادة الجلوس للامتحان النهائي\n"
+            ],
+            "en": [
+              "• Fees and Electronic Payment for\n",
+              "• Registration or Dropping the Study Schedule\n",
+              "• Appeals\n",
+              "• Deferring Exams\n",
+              "• Student Certificates\n",
+              "• Installment Requests\n",
+              "• Graduation Certificate / Graduation Gown\n",
+              "• Taking Exam at Another Branch\n",
+              "• Transferring to Another Branch\n",
+              "• Retaking Final Exams\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "finance@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "رامي الفايد",
+                "en": "Rami Al-Faydi"
+              },
+              "email": "r.alfaydi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عائشة الرفاعي",
+                "en": "Aisha Al-Refaei"
+              },
+              "email": "a.alrefaei@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الدعم الفني",
+            "en": "Technical Support"
+          },
+          "info": {
+            "ar": [
+              "• معالجة المشاكل التقنية المتعلقة بـ\n",
+              "• الإيميل الجامعي\n",
+              "• نظام معلومات الطالب SIS\n",
+              "• نظام التعلم الإلكتروني LMS\n",
+              "• اختبارات الأونلاين\n",
+              "• حضور المحاضرات عن بعد\n"
+            ],
+            "en": [
+              "• Handling Technical Issues Related to\n",
+              "• University Email\n",
+              "• Student Information System SIS\n",
+              "• Learning Management System LMS\n",
+              "• Online Exams\n",
+              "• Attending Lectures Remotely\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام",
+                "en": "General Email"
+              },
+              "email": "LMS@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "رائد المحمادي",
+                "en": "Raed Al-Mehmadi"
+              },
+              "email": "r.almehmadi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "سلطان الجفري",
+                "en": "Sultan Al-Jefri"
+              },
+              "email": "s.aljefri@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "خالد السهلي",
+                "en": "Khaled Al-Sahli"
+              },
+              "email": "k.alsahli@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "شذى نجيم",
+                "en": "Shaza Nejaim"
+              },
+              "email": "s.nejaim@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "سماح الحربي",
+                "en": "Samah Al-Harbi"
+              },
+              "email": "samah.alharbi@arabou.edu.sa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "branch_name": {
+        "ar": "المدينة المنورة",
+        "en": "Medina"
+      },
+      "departments": [
+        {
+          "department_name": {
+            "ar": "القبول و التسجيل",
+            "en": "Admission and Registration"
+          },
+          "info": {
+            "ar": [
+              "• معادلة المقررات\n",
+              "• إضافة / حذف او الانسحاب من مقرر\n",
+              "• التسجيل المتأخر\n",
+              "• تأجيل الفصل الدراسي\n",
+              "• الانتقال بين الكليات أو البرامج أو المسارات\n",
+              "• الانتقال الى فرع دولي أو محلي للجامعة\n",
+              "• الانسحاب من الجامعة\n",
+              "• طلب سجل اكاديمي رسمي\n",
+              "• إجراءات التخرج / وثائق التخرج\n"
+            ],
+            "en": [
+              "• Course Equivalency\n",
+              "• Add / Drop or Withdraw from a Course\n",
+              "• Late Registration\n",
+              "• Deferring the Semester\n",
+              "• Transferring Between Colleges, Programs, or Tracks\n",
+              "• Transferring to an International or Local Branch\n",
+              "• Withdrawal from the University\n",
+              "• Request for Official Academic Transcript\n",
+              "• Graduation Procedures / Graduation Documents\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "عمر العقيبي",
+                "en": "Omar Al-Oqaibi"
+              },
+              "email": "o.aloqaibi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "هيثم طرابيشي",
+                "en": "Haitham Tarabishi"
+              },
+              "email": "h.tarabishi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "زياد بوشناق",
+                "en": "Ziad Bushnaq"
+              },
+              "email": "z.bushnaq@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "غزل حجاج",
+                "en": "Ghazal Hajjaj"
+              },
+              "email": "g.mutwakel@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "شؤون الطلبة والخريجين",
+            "en": "Student and Graduate Affairs"
+          },
+          "info": {
+            "ar": [
+              "• إصدار البطاقات الجامعية\n",
+              "• طلب المنح الدراسية\n",
+              "• طلب إفادة للطالب\n",
+              "• تأجيل الاختبارات\n",
+              "• الأندية الطلابية والأنشطة الطلابية\n",
+              "• الخدمات الصحية والنفسية\n",
+              "• كافيتريا الجامعة\n",
+              "• استفسارات المجلس التأديبي\n"
+            ],
+            "en": [
+              "• Issuing University ID Cards\n",
+              "• Requesting Scholarships\n",
+              "• Requesting Student Certificate\n",
+              "• Deferring Exams\n",
+              "• Student Clubs and Student Activities\n",
+              "• Health and Psychological Services\n",
+              "• University Cafeteria\n",
+              "• Disciplinary Council Inquiries\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "std.affairs@arabou.edu.as"
+            },
+            {
+              "name": {
+                "ar": "عبدالعزيز تركستاني",
+                "en": "Abdulaziz Al-Turkistani"
+              },
+              "email": "a.turkistani@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "آلاء الشيخ",
+                "en": "Alaa Al-Sheikh"
+              },
+              "email": "a.alsheikh@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عبير التميمي",
+                "en": "Abeer Al-Tamimi"
+              },
+              "email": "a.altamimi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "آلاء حمودة",
+                "en": "Alaa Hammoudah"
+              },
+              "email": "a.hammoudah@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الشؤون المالية",
+            "en": "Financial Affairs"
+          },
+          "info": {
+            "ar": [
+              "• الرسوم والدفع الإلكتروني لـ\n",
+              "• التسجيل أو حذف الجدول الدراسي\n",
+              "• الاعتراضات\n",
+              "• تأجيل الاختبارات\n",
+              "• إفادات الطلاب\n",
+              "• طلبات التقسيط\n",
+              "• شهادة التخرج / عباءة التخرج\n",
+              "• اجراء الاختبار في فرع آخر\n",
+              "• الانتقال الى فرع آخر\n",
+              "• إعادة الجلوس للامتحان النهائي\n"
+            ],
+            "en": [
+              "• Fees and Electronic Payment for\n",
+              "• Registration or Dropping the Study Schedule\n",
+              "• Appeals\n",
+              "• Deferring Exams\n",
+              "• Student Certificates\n",
+              "• Installment Requests\n",
+              "• Graduation Certificate / Graduation Gown\n",
+              "• Taking Exam at Another Branch\n",
+              "• Transferring to Another Branch\n",
+              "• Retaking Final Exams\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "finance@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عبدالرحيم مدثر",
+                "en": "Abdulrahim Madathir"
+              },
+              "email": "a.hassan@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الدعم الفني",
+            "en": "Technical Support"
+          },
+          "info": {
+            "ar": [
+              "• معالجة المشاكل التقنية المتعلقة بـ\n",
+              "• الإيميل الجامعي\n",
+              "• نظام معلومات الطالب SIS\n",
+              "• نظام التعلم الإلكتروني LMS\n",
+              "• اختبارات الأونلاين\n",
+              "• حضور المحاضرات عن بعد\n"
+            ],
+            "en": [
+              "• Handling Technical Issues Related to\n",
+              "• University Email\n",
+              "• Student Information System SIS\n",
+              "• Learning Management System LMS\n",
+              "• Online Exams\n",
+              "• Attending Lectures Remotely\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام",
+                "en": "General Email"
+              },
+              "email": "LMS@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "محمد سامي",
+                "en": "Mohammed Samy"
+              },
+              "email": "m.samy@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "وائل رشدي",
+                "en": "Wael Roshdi"
+              },
+              "email": "w.roshdi@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "منيرة السنيدي",
+                "en": "Munira Al-Sunidi"
+              },
+              "email": "m.alsunidi@arabou.edu.sa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "branch_name": {
+        "ar": "الدمام",
+        "en": "Dammam"
+      },
+      "departments": [
+        {
+          "department_name": {
+            "ar": "القبول و التسجيل",
+            "en": "Admission and Registration"
+          },
+          "info": {
+            "ar": [
+              "• معادلة المقررات\n",
+              "• إضافة / حذف او الانسحاب من مقرر\n",
+              "• التسجيل المتأخر\n",
+              "• تأجيل الفصل الدراسي\n",
+              "• الانتقال بين الكليات أو البرامج أو المسارات\n",
+              "• الانتقال الى فرع دولي أو محلي للجامعة\n",
+              "• الانسحاب من الجامعة\n",
+              "• طلب سجل اكاديمي رسمي\n",
+              "• إجراءات التخرج / وثائق التخرج\n"
+            ],
+            "en": [
+              "• Course Equivalency\n",
+              "• Add / Drop or Withdraw from a Course\n",
+              "• Late Registration\n",
+              "• Deferring the Semester\n",
+              "• Transferring Between Colleges, Programs, or Tracks\n",
+              "• Transferring to an International or Local Branch\n",
+              "• Withdrawal from the University\n",
+              "• Request for Official Academic Transcript\n",
+              "• Graduation Procedures / Graduation Documents\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "عبدالمحسن الشمري",
+                "en": "Abdulmohsen Al-Shammari"
+              },
+              "email": "a.alshammari@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "علي الغانم",
+                "en": "Ali Al-Ghanem"
+              },
+              "email": "ali.ghanem@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "فرح العلي",
+                "en": "Farah Al-Ali"
+              },
+              "email": "f.alali@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "زينب أبو جبارة",
+                "en": "Zainab Abu Jubarah"
+              },
+              "email": "z.bojubarah@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "شؤون الطلبة والخريجين",
+            "en": "Student and Graduate Affairs"
+          },
+          "info": {
+            "ar": [
+              "• إصدار البطاقات الجامعية\n",
+              "• طلب المنح الدراسية\n",
+              "• طلب إفادة للطالب\n",
+              "• تأجيل الاختبارات\n",
+              "• الأندية الطلابية والأنشطة الطلابية\n",
+              "• الخدمات الصحية والنفسية\n",
+              "• كافيتريا الجامعة\n",
+              "• استفسارات المجلس التأديبي\n"
+            ],
+            "en": [
+              "• Issuing University ID Cards\n",
+              "• Requesting Scholarships\n",
+              "• Requesting Student Certificate\n",
+              "• Deferring Exams\n",
+              "• Student Clubs and Student Activities\n",
+              "• Health and Psychological Services\n",
+              "• University Cafeteria\n",
+              "• Disciplinary Council Inquiries\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "std.affairs@arabou.edu.as"
+            },
+            {
+              "name": {
+                "ar": "محمد العاشور",
+                "en": "Mohammed Al-Ashour"
+              },
+              "email": "m_ashour@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "أحلام الذيباني",
+                "en": "Ahlam Al-Thbeani"
+              },
+              "email": "a.althbeani@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الشؤون المالية",
+            "en": "Financial Affairs"
+          },
+          "info": {
+            "ar": [
+              "• الرسوم والدفع الإلكتروني لـ\n",
+              "• التسجيل أو حذف الجدول الدراسي\n",
+              "• الاعتراضات\n",
+              "• تأجيل الاختبارات\n",
+              "• إفادات الطلاب\n",
+              "• طلبات التقسيط\n",
+              "• شهادة التخرج / عباءة التخرج\n",
+              "• اجراء الاختبار في فرع آخر\n",
+              "• الانتقال الى فرع آخر\n",
+              "• إعادة الجلوس للامتحان النهائي\n"
+            ],
+            "en": [
+              "• Fees and Electronic Payment for\n",
+              "• Registration or Dropping the Study Schedule\n",
+              "• Appeals\n",
+              "• Deferring Exams\n",
+              "• Student Certificates\n",
+              "• Installment Requests\n",
+              "• Graduation Certificate / Graduation Gown\n",
+              "• Taking Exam at Another Branch\n",
+              "• Transferring to Another Branch\n",
+              "• Retaking Final Exams\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "finance@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عبدالرحيم مدثر",
+                "en": "Abdulrahim Madathir"
+              },
+              "email": "a.hassan@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الدعم الفني",
+            "en": "Technical Support"
+          },
+          "info": {
+            "ar": [
+              "• معالجة المشاكل التقنية المتعلقة بـ\n",
+              "• الإيميل الجامعي\n",
+              "• نظام معلومات الطالب SIS\n",
+              "• نظام التعلم الإلكتروني LMS\n",
+              "• اختبارات الأونلاين\n",
+              "• حضور المحاضرات عن بعد\n"
+            ],
+            "en": [
+              "• Handling Technical Issues Related to\n",
+              "• University Email\n",
+              "• Student Information System SIS\n",
+              "• Learning Management System LMS\n",
+              "• Online Exams\n",
+              "• Attending Lectures Remotely\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام",
+                "en": "General Email"
+              },
+              "email": "LMS@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "أحمد البغدادي",
+                "en": "Ahmed Al-Baghdadi"
+              },
+              "email": "aboghdady@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "محمد البيلي",
+                "en": "Mohammed Al-Baili"
+              },
+              "email": "mbiali@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "شمس الدين محمد",
+                "en": "Shams Al-Din Mohammed"
+              },
+              "email": "shams@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "سارة الجلود",
+                "en": "Sara Al-Jaloud"
+              },
+              "email": "s.aljaloud@arabou.edu.sa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "branch_name": {
+        "ar": "حائل",
+        "en": "Hail"
+      },
+      "departments": [
+        {
+          "department_name": {
+            "ar": "القبول و التسجيل",
+            "en": "Admission and Registration"
+          },
+          "info": {
+            "ar": [
+              "• معادلة المقررات\n",
+              "• إضافة / حذف او الانسحاب من مقرر\n",
+              "• التسجيل المتأخر\n",
+              "• تأجيل الفصل الدراسي\n",
+              "• الانتقال بين الكليات أو البرامج أو المسارات\n",
+              "• الانتقال الى فرع دولي أو محلي للجامعة\n",
+              "• الانسحاب من الجامعة\n",
+              "• طلب سجل اكاديمي رسمي\n",
+              "• إجراءات التخرج / وثائق التخرج\n"
+            ],
+            "en": [
+              "• Course Equivalency\n",
+              "• Add / Drop or Withdraw from a Course\n",
+              "• Late Registration\n",
+              "• Deferring the Semester\n",
+              "• Transferring Between Colleges, Programs, or Tracks\n",
+              "• Transferring to an International or Local Branch\n",
+              "• Withdrawal from the University\n",
+              "• Request for Official Academic Transcript\n",
+              "• Graduation Procedures / Graduation Documents\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "رائد الملق",
+                "en": "Raed Al-Malaq"
+              },
+              "email": "r.almalaq@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "منى الجبرين",
+                "en": "Mona Al-Jabreen"
+              },
+              "email": "maljbreen@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "شؤون الطلبة والخريجين",
+            "en": "Student and Graduate Affairs"
+          },
+          "info": {
+            "ar": [
+              "• إصدار البطاقات الجامعية\n",
+              "• طلب المنح الدراسية\n",
+              "• طلب إفادة للطالب\n",
+              "• تأجيل الاختبارات\n",
+              "• الأندية الطلابية والأنشطة الطلابية\n",
+              "• الخدمات الصحية والنفسية\n",
+              "• كافيتريا الجامعة\n",
+              "• استفسارات المجلس التأديبي\n"
+            ],
+            "en": [
+              "• Issuing University ID Cards\n",
+              "• Requesting Scholarships\n",
+              "• Requesting Student Certificate\n",
+              "• Deferring Exams\n",
+              "• Student Clubs and Student Activities\n",
+              "• Health and Psychological Services\n",
+              "• University Cafeteria\n",
+              "• Disciplinary Council Inquiries\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "std.affairs@arabou.edu.as"
+            },
+            {
+              "name": {
+                "ar": "محمد المطير",
+                "en": "Mohammed Al-Mutair"
+              },
+              "email": "m.almutair@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "منى الجبرين",
+                "en": "Mona Al-Jabreen"
+              },
+              "email": "maljbreen@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الشؤون المالية",
+            "en": "Financial Affairs"
+          },
+          "info": {
+            "ar": [
+              "• الرسوم والدفع الإلكتروني لـ\n",
+              "• التسجيل أو حذف الجدول الدراسي\n",
+              "• الاعتراضات\n",
+              "• تأجيل الاختبارات\n",
+              "• إفادات الطلاب\n",
+              "• طلبات التقسيط\n",
+              "• شهادة التخرج / عباءة التخرج\n",
+              "• اجراء الاختبار في فرع آخر\n",
+              "• الانتقال الى فرع آخر\n",
+              "• إعادة الجلوس للامتحان النهائي\n"
+            ],
+            "en": [
+              "• Fees and Electronic Payment for\n",
+              "• Registration or Dropping the Study Schedule\n",
+              "• Appeals\n",
+              "• Deferring Exams\n",
+              "• Student Certificates\n",
+              "• Installment Requests\n",
+              "• Graduation Certificate / Graduation Gown\n",
+              "• Taking Exam at Another Branch\n",
+              "• Transferring to Another Branch\n",
+              "• Retaking Final Exams\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "finance@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "بندر العبيد",
+                "en": "Bander Al-Obaid"
+              },
+              "email": "bobaid@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "منى الجبرين",
+                "en": "Mona Al-Jabreen"
+              },
+              "email": "maljbreen@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الدعم الفني",
+            "en": "Technical Support"
+          },
+          "info": {
+            "ar": [
+              "• معالجة المشاكل التقنية المتعلقة بـ\n",
+              "• الإيميل الجامعي\n",
+              "• نظام معلومات الطالب SIS\n",
+              "• نظام التعلم الإلكتروني LMS\n",
+              "• اختبارات الأونلاين\n",
+              "• حضور المحاضرات عن بعد\n"
+            ],
+            "en": [
+              "• Handling Technical Issues Related to\n",
+              "• University Email\n",
+              "• Student Information System SIS\n",
+              "• Learning Management System LMS\n",
+              "• Online Exams\n",
+              "• Attending Lectures Remotely\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام",
+                "en": "General Email"
+              },
+              "email": "LMS@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "نوف الخشرم",
+                "en": "Noof Al-Khashram"
+              },
+              "email": "n.alkhashram@arabou.edu.sa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "branch_name": {
+        "ar": "الاحساء",
+        "en": "Al-Ahsa"
+      },
+      "departments": [
+        {
+          "department_name": {
+            "ar": "القبول و التسجيل",
+            "en": "Admission and Registration"
+          },
+          "info": {
+            "ar": [
+              "• معادلة المقررات\n",
+              "• إضافة / حذف او الانسحاب من مقرر\n",
+              "• التسجيل المتأخر\n",
+              "• تأجيل الفصل الدراسي\n",
+              "• الانتقال بين الكليات أو البرامج أو المسارات\n",
+              "• الانتقال الى فرع دولي أو محلي للجامعة\n",
+              "• الانسحاب من الجامعة\n",
+              "• طلب سجل اكاديمي رسمي\n",
+              "• إجراءات التخرج / وثائق التخرج\n"
+            ],
+            "en": [
+              "• Course Equivalency\n",
+              "• Add / Drop or Withdraw from a Course\n",
+              "• Late Registration\n",
+              "• Deferring the Semester\n",
+              "• Transferring Between Colleges, Programs, or Tracks\n",
+              "• Transferring to an International or Local Branch\n",
+              "• Withdrawal from the University\n",
+              "• Request for Official Academic Transcript\n",
+              "• Graduation Procedures / Graduation Documents\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "أنس التركي",
+                "en": "Anas Al-Turki"
+              },
+              "email": "a.altorky@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "آلاء العويسي",
+                "en": "Alaa Al-Owaisi"
+              },
+              "email": "a.alowaisi@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "شؤون الطلبة والخريجين",
+            "en": "Student and Graduate Affairs"
+          },
+          "info": {
+            "ar": [
+              "• إصدار البطاقات الجامعية\n",
+              "• طلب المنح الدراسية\n",
+              "• طلب إفادة للطالب\n",
+              "• تأجيل الاختبارات\n",
+              "• الأندية الطلابية والأنشطة الطلابية\n",
+              "• الخدمات الصحية والنفسية\n",
+              "• كافيتريا الجامعة\n",
+              "• استفسارات المجلس التأديبي\n"
+            ],
+            "en": [
+              "• Issuing University ID Cards\n",
+              "• Requesting Scholarships\n",
+              "• Requesting Student Certificate\n",
+              "• Deferring Exams\n",
+              "• Student Clubs and Student Activities\n",
+              "• Health and Psychological Services\n",
+              "• University Cafeteria\n",
+              "• Disciplinary Council Inquiries\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "std.affairs@arabou.edu.as"
+            },
+            {
+              "name": {
+                "ar": "يوسف الصايغ",
+                "en": "Yousef Al-Sayegh"
+              },
+              "email": "ysaeigh@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عفاف الدريس",
+                "en": "Afaf Al-Edrees"
+              },
+              "email": "afaf.edrees@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الشؤون المالية",
+            "en": "Financial Affairs"
+          },
+          "info": {
+            "ar": [
+              "• الرسوم والدفع الإلكتروني لـ\n",
+              "• التسجيل أو حذف الجدول الدراسي\n",
+              "• الاعتراضات\n",
+              "• تأجيل الاختبارات\n",
+              "• إفادات الطلاب\n",
+              "• طلبات التقسيط\n",
+              "• شهادة التخرج / عباءة التخرج\n",
+              "• اجراء الاختبار في فرع آخر\n",
+              "• الانتقال الى فرع آخر\n",
+              "• إعادة الجلوس للامتحان النهائي\n"
+            ],
+            "en": [
+              "• Fees and Electronic Payment for\n",
+              "• Registration or Dropping the Study Schedule\n",
+              "• Appeals\n",
+              "• Deferring Exams\n",
+              "• Student Certificates\n",
+              "• Installment Requests\n",
+              "• Graduation Certificate / Graduation Gown\n",
+              "• Taking Exam at Another Branch\n",
+              "• Transferring to Another Branch\n",
+              "• Retaking Final Exams\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام للقسم",
+                "en": "General Department Email"
+              },
+              "email": "finance@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "محمد التاجر",
+                "en": "Mohammed Al-Tajer"
+              },
+              "email": "maltajer@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "عفاف الدريس",
+                "en": "Afaf Al-Edrees"
+              },
+              "email": "afaf.edrees@arabou.edu.sa"
+            }
+          ]
+        },
+        {
+          "department_name": {
+            "ar": "الدعم الفني",
+            "en": "Technical Support"
+          },
+          "info": {
+            "ar": [
+              "• معالجة المشاكل التقنية المتعلقة بـ\n",
+              "• الإيميل الجامعي\n",
+              "• نظام معلومات الطالب SIS\n",
+              "• نظام التعلم الإلكتروني LMS\n",
+              "• اختبارات الأونلاين\n",
+              "• حضور المحاضرات عن بعد\n"
+            ],
+            "en": [
+              "• Handling Technical Issues Related to\n",
+              "• University Email\n",
+              "• Student Information System SIS\n",
+              "• Learning Management System LMS\n",
+              "• Online Exams\n",
+              "• Attending Lectures Remotely\n"
+            ]
+          },
+          "emails": [
+            {
+              "name": {
+                "ar": "الايميل العام",
+                "en": "General Email"
+              },
+              "email": "LMS@arabou.edu.sa"
+            },
+            {
+              "name": {
+                "ar": "وجود المطيري",
+                "en": "Wajood Al-Mutairi"
+              },
+              "email": "w.almutairi@arabou.edu.sa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

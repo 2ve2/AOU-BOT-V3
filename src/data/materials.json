@@ -1,0 +1,1505 @@
+[
+  {
+    "id": "A230A",
+    "credits": 8,
+    "nameAr": "قراءة الادب ودراسته",
+    "nameEn": "Reading and Studying Literature I",
+    "reqs": [
+      "AA100B"
+    ]
+  },
+  {
+    "id": "A230B",
+    "credits": 8,
+    "nameAr": "قراءة الادب ودراسته (2)",
+    "nameEn": "Reading and Studying Literature II",
+    "reqs": [
+      "AA100B"
+    ]
+  },
+  {
+    "id": "A335A",
+    "credits": 8,
+    "nameAr": "الأدب في مراحله الإنتقالية 1",
+    "nameEn": "Literature in Transition (I)",
+    "reqs": [
+      "A230B",
+      "A210B"
+    ]
+  },
+  {
+    "id": "A335B",
+    "credits": 8,
+    "nameAr": "الأدب في مراحله الإنتقالية 2",
+    "nameEn": "Literature in Transition (II)",
+    "reqs": [
+      "A300A",
+      "A335A",
+      "A319A"
+    ]
+  },
+  {
+    "id": "AA100A",
+    "credits": 8,
+    "nameAr": "آ داب الماضي والحاضر (I)",
+    "nameEn": "Arts of Past & Present (I)",
+    "reqs": [
+      "EL112",
+      "EL121N"
+    ]
+  },
+  {
+    "id": "AA100B",
+    "credits": 8,
+    "nameAr": "آ داب الماضي والحاضر",
+    "nameEn": "Arts of Past & Present (II)",
+    "reqs": [
+      "AA100A"
+    ]
+  },
+  {
+    "id": "ACC300",
+    "credits": 4,
+    "nameAr": "نظام معلومات المحاسبية",
+    "nameEn": "Accounting Information System",
+    "reqs": [
+      "B291",
+      "B292"
+    ]
+  },
+  {
+    "id": "ACC302",
+    "credits": 4,
+    "nameAr": "نظرية المراجعة و الممارسة",
+    "nameEn": "Auditing theory and practice",
+    "reqs": [
+      "B291",
+      "B292"
+    ]
+  },
+  {
+    "id": "ACC350",
+    "credits": 3,
+    "nameAr": "محاسبة البنوك والتأمين",
+    "nameEn": "Bank And Insurance",
+    "reqs": [
+      "ACCT322"
+    ]
+  },
+  {
+    "id": "ACCT201",
+    "credits": 3,
+    "nameAr": "مبادئ المحاسبة 1",
+    "nameEn": "Accounting Principal 1",
+    "reqs": []
+  },
+  {
+    "id": "ACCT202",
+    "credits": 3,
+    "nameAr": "مبادئ المحاسبة 2",
+    "nameEn": "Accounting Principal 2",
+    "reqs": [
+      "ACCT201"
+    ]
+  },
+  {
+    "id": "ACCT250",
+    "credits": 3,
+    "nameAr": "مهارات الحاسوب و تطبيقاته في المحاسبة",
+    "nameEn": "Computer skills and its applications in accounting",
+    "reqs": [
+      "ACCT201"
+    ]
+  },
+  {
+    "id": "ACCT301",
+    "credits": 3,
+    "nameAr": "نظم المعلومات المحاسبية",
+    "nameEn": "Accounting Information Systems",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "ACCT305",
+    "credits": 3,
+    "nameAr": "محاسبة التكاليف",
+    "nameEn": "Cost accounting",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "ACCT306",
+    "credits": 3,
+    "nameAr": "المحاسبة الادارية",
+    "nameEn": "accounting administration",
+    "reqs": [
+      "ACCT305"
+    ]
+  },
+  {
+    "id": "ACCT307",
+    "credits": 3,
+    "nameAr": "المحاسبة الحكومية",
+    "nameEn": "government accounting",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "ACCT311",
+    "credits": 3,
+    "nameAr": "تدقيق نظم المعلومات المحاسبية",
+    "nameEn": "Auditing of accounting information systems",
+    "reqs": [
+      "ACCT301"
+    ]
+  },
+  {
+    "id": "ACCT320",
+    "credits": 3,
+    "nameAr": "المحاسبة المتوسطة 1",
+    "nameEn": "Intermediate Accounting 1",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "ACCT322",
+    "credits": 3,
+    "nameAr": "المحاسبة المتوسطة 2",
+    "nameEn": "Intermediate Accounting 2",
+    "reqs": [
+      "ACCT320"
+    ]
+  },
+  {
+    "id": "ACCT330",
+    "credits": 3,
+    "nameAr": "تحليل القوائم المالية (باللغة الانجليزية)",
+    "nameEn": "Financial statement analysis (in English)",
+    "reqs": [
+      "ACCT322"
+    ]
+  },
+  {
+    "id": "ACCT340",
+    "credits": 3,
+    "nameAr": "محاسبة الضريبة و الزكاة",
+    "nameEn": "Tax and zakat accounting",
+    "reqs": [
+      "ACCT322"
+    ]
+  },
+  {
+    "id": "ACCT345",
+    "credits": 3,
+    "nameAr": "محاسبات الشركات",
+    "nameEn": "Corporate accounting",
+    "reqs": [
+      "ACCT322"
+    ]
+  },
+  {
+    "id": "ACCT350",
+    "credits": 3,
+    "nameAr": "محاسبة البنوك و التأمين",
+    "nameEn": "Banking and insurance accounting",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "ACCT401",
+    "credits": 3,
+    "nameAr": "نظرية المحاسبة",
+    "nameEn": "accounting theory",
+    "reqs": [
+      "ACCT301"
+    ]
+  },
+  {
+    "id": "ACCT402",
+    "credits": 3,
+    "nameAr": "المراجعة و التدقيق",
+    "nameEn": "Review and audit",
+    "reqs": [
+      "ACCT311"
+    ]
+  },
+  {
+    "id": "ACCT403",
+    "credits": 3,
+    "nameAr": "المحاسبة المالية المتقدمة",
+    "nameEn": "Advanced financial accounting",
+    "reqs": [
+      "ACCT322"
+    ]
+  },
+  {
+    "id": "ACCT412",
+    "credits": 3,
+    "nameAr": "المعايير الدولية للتدقيق",
+    "nameEn": "international auditing standards",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "ACCT413",
+    "credits": 3,
+    "nameAr": "معايير المحاسبة الدولية",
+    "nameEn": "International Accounting Standards",
+    "reqs": [
+      "ACCT403"
+    ]
+  },
+  {
+    "id": "ACCT420",
+    "credits": 3,
+    "nameAr": "مواضيع متخصصة في المحاسبة الدولية (باللغة الانجليزية)",
+    "nameEn": "Specialized topics in international accounting (in English)",
+    "reqs": [
+      "ACCT413"
+    ]
+  },
+  {
+    "id": "ACCT6/430",
+    "credits": 6,
+    "nameAr": "التدريب الميداني في المحاسبة",
+    "nameEn": "Field training in accounting",
+    "reqs": [
+      "The approval of the academic advisor and the completion of 81 hours"
+    ]
+  },
+  {
+    "id": "AR111",
+    "credits": 3,
+    "nameAr": "مهارات الاتصال في اللغة العربية 1",
+    "nameEn": "Arabic Communication Skills (I)",
+    "reqs": []
+  },
+  {
+    "id": "AR112",
+    "credits": 3,
+    "nameAr": "مهارات الإتصال في اللغة العربية 2",
+    "nameEn": "Arabic Communication Skills (II)",
+    "reqs": [
+      "AR111"
+    ]
+  },
+  {
+    "id": "B122",
+    "credits": 8,
+    "nameAr": "مقدمة في ادارة البيع بالتجزئة و التسويق",
+    "nameEn": "Introduction to Retail Management and Marketing",
+    "reqs": []
+  },
+  {
+    "id": "B123",
+    "credits": 8,
+    "nameAr": "التدرب على الادارة",
+    "nameEn": "Management practice",
+    "reqs": []
+  },
+  {
+    "id": "B124",
+    "credits": 8,
+    "nameAr": "اساسيات المحاسبة",
+    "nameEn": "Fundamentals of Accounting",
+    "reqs": []
+  },
+  {
+    "id": "B205A",
+    "credits": 8,
+    "nameAr": "اكتشاف الابتكار و ريادة الاعمال أ",
+    "nameEn": "Exploring innovation and entrepreneurship A",
+    "reqs": []
+  },
+  {
+    "id": "B205B",
+    "credits": 8,
+    "nameAr": "اكتشاف الابتكار و ريادة الأعمال ب",
+    "nameEn": "Exploring innovation and entrepreneurship B",
+    "reqs": [
+      "B207B"
+    ]
+  },
+  {
+    "id": "B207A",
+    "credits": 8,
+    "nameAr": "تشكيل فرص العمل أ",
+    "nameEn": "Shaping business opportunities A",
+    "reqs": [
+      "BUS110"
+    ]
+  },
+  {
+    "id": "B207B",
+    "credits": 8,
+    "nameAr": "تشكيل فرص العمل ب",
+    "nameEn": "Shaping business opportunities B",
+    "reqs": [
+      "B207A"
+    ]
+  },
+  {
+    "id": "B291",
+    "credits": 8,
+    "nameAr": "محاسبة مالية",
+    "nameEn": "Financial Accounting",
+    "reqs": [
+      "B124"
+    ]
+  },
+  {
+    "id": "B292",
+    "credits": 8,
+    "nameAr": "المحاسبة الادارية",
+    "nameEn": "Management accounting",
+    "reqs": [
+      "B124"
+    ]
+  },
+  {
+    "id": "B324",
+    "credits": 8,
+    "nameAr": "التسويق و المجتمع",
+    "nameEn": "Marketing and Society",
+    "reqs": [
+      "B205B"
+    ]
+  },
+  {
+    "id": "B325",
+    "credits": 8,
+    "nameAr": "الادارة عبر التنظيمي الثقافي",
+    "nameEn": "Managing across organisations and culture ",
+    "reqs": [
+      "BUS310"
+    ]
+  },
+  {
+    "id": "B326",
+    "credits": 8,
+    "nameAr": "محاسبة مالية متقدمة",
+    "nameEn": "Advance financial accounting",
+    "reqs": [
+      "B291"
+    ]
+  },
+  {
+    "id": "B327",
+    "credits": 8,
+    "nameAr": "المشاريع المستدامة و الابتكار",
+    "nameEn": "Sustainable enterprises Ana innovation",
+    "reqs": [
+      "BUS310"
+    ]
+  },
+  {
+    "id": "B392",
+    "credits": 8,
+    "nameAr": "محاسبة ادارية متقدمة",
+    "nameEn": "aadvance management accounting",
+    "reqs": [
+      "B292"
+    ]
+  },
+  {
+    "id": "BAS400",
+    "credits": 4,
+    "nameAr": "الدراسات المعتمدة لطلاب إدارة الأعمال",
+    "nameEn": "Applied Studies for Business Students",
+    "reqs": [
+      "BUS310"
+    ]
+  },
+  {
+    "id": "BUS101",
+    "credits": 4,
+    "nameAr": "مقدمة في الرياضيات للأعمال",
+    "nameEn": "Introduction to math for business",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "BUS102",
+    "credits": 4,
+    "nameAr": "مقدمة في الاحصاء",
+    "nameEn": "Introduction to statistics",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "BUS109",
+    "credits": 4,
+    "nameAr": "قانون العمل",
+    "nameEn": "Business law",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "BUS110",
+    "credits": 8,
+    "nameAr": "مقدمة في الاعمال",
+    "nameEn": "Introduction to Business",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "BUS115",
+    "credits": 4,
+    "nameAr": "ادارة الاعمال الصغيرة",
+    "nameEn": "Small business management",
+    "reqs": [
+      "BUS110"
+    ]
+  },
+  {
+    "id": "BUS202",
+    "credits": 4,
+    "nameAr": "تحليل البيانات",
+    "nameEn": "Data analysis",
+    "reqs": [
+      "BUS101",
+      "BUS102"
+    ]
+  },
+  {
+    "id": "BUS310",
+    "credits": 8,
+    "nameAr": "الإدارة الاستراتيجية",
+    "nameEn": "Strategic Management",
+    "reqs": [
+      "B207B"
+    ]
+  },
+  {
+    "id": "CAS400",
+    "credits": 4,
+    "nameAr": "الدراسات التطبيقية لطلاب الحوسبة",
+    "nameEn": "Applied Studies For Computing Students",
+    "reqs": [
+      "TM354"
+    ]
+  },
+  {
+    "id": "CAS400_25",
+    "credits": 4,
+    "nameAr": "الدراسات التطبيقية لطلاب الحوسبة",
+    "nameEn": "Applied Studies For Computing Students",
+    "reqs": [
+      "TM352"
+    ]
+  },
+  {
+    "id": "CH101",
+    "credits": 3,
+    "nameAr": "اللغة الصينية للمبتدئين (1)",
+    "nameEn": "Chinese for Beginners (I)",
+    "reqs": []
+  },
+  {
+    "id": "CH102",
+    "credits": 3,
+    "nameAr": "اللغة الصينية للمبتدئين (2)",
+    "nameEn": "Chinese for Beginners (II)",
+    "reqs": [
+      "CH101"
+    ]
+  },
+  {
+    "id": "E302A",
+    "credits": 8,
+    "nameAr": "الأدب والإبداع 1",
+    "nameEn": "Language and Creativity (I)",
+    "reqs": [
+      "U214B",
+      "U210B"
+    ]
+  },
+  {
+    "id": "E302B",
+    "credits": 8,
+    "nameAr": "الأدب والإبداع 2",
+    "nameEn": "Language and Creativity (II)",
+    "reqs": [
+      "E300A",
+      "E302A"
+    ]
+  },
+  {
+    "id": "E304A",
+    "credits": 8,
+    "nameAr": "سبر خواص النحو في اللغة الإنجليزية 1",
+    "nameEn": "Exploring English Grammar (I)",
+    "reqs": [
+      "U214B"
+    ]
+  },
+  {
+    "id": "E304B",
+    "credits": 8,
+    "nameAr": "سبر خواص النحو في اللغة الإنجليزية 2",
+    "nameEn": "Exploring English Grammar (II)",
+    "reqs": [
+      "U214B"
+    ]
+  },
+  {
+    "id": "EA300A",
+    "credits": 8,
+    "nameAr": "ادب الاطفال (1)",
+    "nameEn": "Children's Literature (I)",
+    "reqs": [
+      "A230B"
+    ]
+  },
+  {
+    "id": "EA300B",
+    "credits": 8,
+    "nameAr": "ادب الاطفال (2)",
+    "nameEn": "Children's Literature (II)",
+    "reqs": [
+      "EA300A"
+    ]
+  },
+  {
+    "id": "ECO101",
+    "credits": 4,
+    "nameAr": "مبدأ الاقتصاد الجزئي",
+    "nameEn": "Principle of microeconomics",
+    "reqs": [
+      "BUS110"
+    ]
+  },
+  {
+    "id": "ECO102",
+    "credits": 4,
+    "nameAr": "مبدأ الاقتصاد الجزئي",
+    "nameEn": "Principle of microeconomics",
+    "reqs": [
+      "BUS110"
+    ]
+  },
+  {
+    "id": "Econ201",
+    "credits": 3,
+    "nameAr": "مدخل الى العلوم الاقتصادية 1",
+    "nameEn": "Introduction to economic sciences 1",
+    "reqs": []
+  },
+  {
+    "id": "ECON201",
+    "credits": 3,
+    "nameAr": "مدخل الى العلوم الاقتصادية",
+    "nameEn": "Business Introduction",
+    "reqs": []
+  },
+  {
+    "id": "Econ202",
+    "credits": 3,
+    "nameAr": "مدخل الى العلوم الاقتصادية ٢",
+    "nameEn": "Introduction to economic sciences 2",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "ECON202",
+    "credits": 3,
+    "nameAr": "مدخل الى العلوم الاقتصادية",
+    "nameEn": "Business Introduction",
+    "reqs": [
+      "ECON201"
+    ]
+  },
+  {
+    "id": "ED256",
+    "credits": 4,
+    "nameAr": "أساليب التدريس",
+    "nameEn": "Methodology of English for Teachers of Eleme",
+    "reqs": [
+      "EL112"
+    ]
+  },
+  {
+    "id": "EL099",
+    "credits": 0,
+    "nameAr": "دورة اللغة الانجليزية 99",
+    "nameEn": "English Course 99",
+    "reqs": []
+  },
+  {
+    "id": "EL099E",
+    "credits": 0,
+    "nameAr": "دورة اللغة الانجليزية 99",
+    "nameEn": "English Course 99",
+    "reqs": []
+  },
+  {
+    "id": "EL111",
+    "credits": 3,
+    "nameAr": "مهارات الاتصال في اللغة الإنجليزية ( 1 )",
+    "nameEn": "English Communication Skills (I)",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "EL111E",
+    "credits": 3,
+    "nameAr": "مهارات الاتصال في اللغة الإنجليزية ( 1 )",
+    "nameEn": "English Communication Skills (I)",
+    "reqs": [
+      "EL099E"
+    ]
+  },
+  {
+    "id": "EL112",
+    "credits": 3,
+    "nameAr": "مهارات الاتصال في اللغة الانجليزية ( 2 )",
+    "nameEn": "English Communication Skills (II)",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "EL112E",
+    "credits": 3,
+    "nameAr": "مهارات الاتصال في اللغة الانجليزية ( 2 )",
+    "nameEn": "English Communication Skills (II)",
+    "reqs": [
+      "EL111E"
+    ]
+  },
+  {
+    "id": "EL117",
+    "credits": 4,
+    "nameAr": "الكتابة",
+    "nameEn": "Writing",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "EL118",
+    "credits": 4,
+    "nameAr": "مفهوم القراءة",
+    "nameEn": "Reading",
+    "reqs": [
+      "El111"
+    ]
+  },
+  {
+    "id": "EL119",
+    "credits": 4,
+    "nameAr": "المهارات الشفوية",
+    "nameEn": "Oral and Presentation Skills",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "EL120",
+    "credits": 4,
+    "nameAr": "علم الأصوات واللسانيات الانجليزية",
+    "nameEn": "English Phonetics and Linguistics",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "EL121N",
+    "credits": 4,
+    "nameAr": "التحليل والنقد الادبي",
+    "nameEn": "Literary Appreciation & Critique",
+    "reqs": [
+      "EL117"
+    ]
+  },
+  {
+    "id": "EL122",
+    "credits": 4,
+    "nameAr": "كتابة البحوث",
+    "nameEn": "Writing Research",
+    "reqs": [
+      "EL117"
+    ]
+  },
+  {
+    "id": "EL123",
+    "credits": 4,
+    "nameAr": "تحليل الخطاب",
+    "nameEn": "Discourse Analysis",
+    "reqs": [
+      "EL120"
+    ]
+  },
+  {
+    "id": "EL230",
+    "credits": 4,
+    "nameAr": "الأدب الأمريكي",
+    "nameEn": "American Literature",
+    "reqs": [
+      "EL121N",
+      "EL121"
+    ]
+  },
+  {
+    "id": "EL240",
+    "credits": 4,
+    "nameAr": "دراما",
+    "nameEn": "Drama",
+    "reqs": [
+      "EL121N",
+      "EL121"
+    ]
+  },
+  {
+    "id": "EL350",
+    "credits": 4,
+    "nameAr": "مقدمة الى نظرية الأدب",
+    "nameEn": "Introduction to Literary Theory",
+    "reqs": [
+      "EL121N",
+      "EL121"
+    ]
+  },
+  {
+    "id": "FIN301",
+    "credits": 3,
+    "nameAr": "تمويل (1)",
+    "nameEn": "Finance (1)",
+    "reqs": [
+      "ACCT202"
+    ]
+  },
+  {
+    "id": "FIN302",
+    "credits": 3,
+    "nameAr": "تمويل (2)",
+    "nameEn": "Finance (2)",
+    "reqs": [
+      "FIN301"
+    ]
+  },
+  {
+    "id": "FR101",
+    "credits": 3,
+    "nameAr": "اللغة الفرنسية للمبتدئين (1)",
+    "nameEn": "French for Beginners (I)",
+    "reqs": []
+  },
+  {
+    "id": "FR102",
+    "credits": 3,
+    "nameAr": "اللغة الفرنسية للمبتدئين (2)",
+    "nameEn": "French for Beginners (II)",
+    "reqs": [
+      "FR101"
+    ]
+  },
+  {
+    "id": "FRE1_1",
+    "credits": 4,
+    "nameAr": "متطلب كلية اختياري",
+    "nameEn": "Faculty Requirement Elective",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "FRE1_12",
+    "credits": 3,
+    "nameAr": "متطلب كلية اختياري",
+    "nameEn": "Faculty Requirement Elective",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "FRE1_2",
+    "credits": 3,
+    "nameAr": "متطلب كلية اختياري",
+    "nameEn": "Faculty Requirement Elective",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "FRE2_1",
+    "credits": 4,
+    "nameAr": "متطلب كلية اختياري",
+    "nameEn": "Faculty Requirement Elective",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "FRE2_12",
+    "credits": 3,
+    "nameAr": "متطلب كلية اختياري",
+    "nameEn": "Faculty Requirement Elective",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "FRE2_2",
+    "credits": 3,
+    "nameAr": "متطلب كلية اختياري",
+    "nameEn": "Faculty Requirement Elective",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "GR101",
+    "credits": 3,
+    "nameAr": "مهارات التعلم الذاتي",
+    "nameEn": "Self-Learning Skills",
+    "reqs": []
+  },
+  {
+    "id": "GR101/GR101EL",
+    "credits": 3,
+    "nameAr": "مهارات التعلم الذاتي",
+    "nameEn": "Self-Learning Skills",
+    "reqs": []
+  },
+  {
+    "id": "GR111",
+    "credits": 3,
+    "nameAr": "الحضارة العربية الإسلامية",
+    "nameEn": "Arab Islamic Civilization",
+    "reqs": []
+  },
+  {
+    "id": "GR118",
+    "credits": 3,
+    "nameAr": "الحضارة العربية الإسلامية 2",
+    "nameEn": "Arab Islamic Civilization 2",
+    "reqs": []
+  },
+  {
+    "id": "GR131",
+    "credits": 3,
+    "nameAr": "تاريخ وحضارة دولة الفرع",
+    "nameEn": "History and Civilization of ksa",
+    "reqs": []
+  },
+  {
+    "id": "LAS400",
+    "credits": 4,
+    "nameAr": "الدراسات التطبيقية لطلبة اللغات",
+    "nameEn": "Applied Studies For Languagues' Students",
+    "reqs": [
+      "A230B"
+    ]
+  },
+  {
+    "id": "LAW301",
+    "credits": 3,
+    "nameAr": "البيئة القانونية للأعمال",
+    "nameEn": "business legal environment",
+    "reqs": [
+      "EL122"
+    ]
+  },
+  {
+    "id": "LB170",
+    "credits": 8,
+    "nameAr": "مهارات الاتصال المهنية للأعمال",
+    "nameEn": "Professional communication skills for business",
+    "reqs": [
+      "EL112"
+    ]
+  },
+  {
+    "id": "M109",
+    "credits": 3,
+    "nameAr": "البرمجة .NET",
+    "nameEn": ".NET Programming",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "M251",
+    "credits": 8,
+    "nameAr": "برمجة الكائنات باستخدام جافا",
+    "nameEn": "Object Oriented Programming using Java",
+    "reqs": [
+      "TM105"
+    ]
+  },
+  {
+    "id": "M269",
+    "credits": 8,
+    "nameAr": "الخوارزميات وهياكل البيانات والحساب",
+    "nameEn": "Algorithms, Data structures and Computability",
+    "reqs": [
+      "TM105"
+    ]
+  },
+  {
+    "id": "MATH201",
+    "credits": 3,
+    "nameAr": "الرياضيات  للعلوم الادارية و الاقتصادية",
+    "nameEn": "Mathematics for administrative and economic sciences",
+    "reqs": []
+  },
+  {
+    "id": "MGT201",
+    "credits": 3,
+    "nameAr": "مبدئ الادارة 1",
+    "nameEn": "Principle of administration 1",
+    "reqs": []
+  },
+  {
+    "id": "MGT202",
+    "credits": 3,
+    "nameAr": "مبدئ الادارة 2",
+    "nameEn": "Principle of administration 2",
+    "reqs": [
+      "MGT201"
+    ]
+  },
+  {
+    "id": "MGT301",
+    "credits": 3,
+    "nameAr": "بحوث العمليات 1",
+    "nameEn": "Operations Research 1",
+    "reqs": [
+      "ACCT202",
+      "MATH201"
+    ]
+  },
+  {
+    "id": "MIS201",
+    "credits": 3,
+    "nameAr": "نظم المعلومات الادارية",
+    "nameEn": "Business Information Systems",
+    "reqs": [
+      "ACCT201",
+      "MGT201"
+    ]
+  },
+  {
+    "id": "MKT201",
+    "credits": 3,
+    "nameAr": "مبادئ التسويق",
+    "nameEn": "Marketing Basics",
+    "reqs": [
+      "MGT201"
+    ]
+  },
+  {
+    "id": "MKT331",
+    "credits": 4,
+    "nameAr": "التسويق الرقمي",
+    "nameEn": "Digital Marketing",
+    "reqs": [
+      "B324"
+    ]
+  },
+  {
+    "id": "MKT332",
+    "credits": 4,
+    "nameAr": "تسويق الخدمات",
+    "nameEn": "Service Marketing",
+    "reqs": [
+      "B324"
+    ]
+  },
+  {
+    "id": "MS102",
+    "credits": 3,
+    "nameAr": "فيزياء",
+    "nameEn": "Physics",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "MT101",
+    "credits": 3,
+    "nameAr": "الرياضيات العامة",
+    "nameEn": "General Mathematics",
+    "reqs": []
+  },
+  {
+    "id": "MT129",
+    "credits": 4,
+    "nameAr": "حساب التفاضل والتكامل والاحتمال",
+    "nameEn": "Calculus and Probability",
+    "reqs": [
+      "EL099"
+    ]
+  },
+  {
+    "id": "MT131",
+    "credits": 4,
+    "nameAr": "الرياضيات المنفصلة",
+    "nameEn": "Discrete Mathematics",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "MT132",
+    "credits": 4,
+    "nameAr": "الجبر الخطي",
+    "nameEn": "Linear Algebra",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "MT372",
+    "credits": 3,
+    "nameAr": "الحوسبة المتوازية",
+    "nameEn": "Parallel Computing",
+    "reqs": [
+      "M269",
+      "M251"
+    ]
+  },
+  {
+    "id": "MT380",
+    "credits": 3,
+    "nameAr": "الخدمات الهندسية الموجهة",
+    "nameEn": "Service oriented architecture",
+    "reqs": [
+      "M251"
+    ]
+  },
+  {
+    "id": "MT390",
+    "credits": 3,
+    "nameAr": "معالجة الصورة",
+    "nameEn": "Image Processing",
+    "reqs": [
+      "Mt132",
+      "M251"
+    ]
+  },
+  {
+    "id": "MT395",
+    "credits": 3,
+    "nameAr": "تطبيق الأمن السيبراني",
+    "nameEn": "Applied Cyber Security",
+    "reqs": [
+      "TM260"
+    ]
+  },
+  {
+    "id": "SL101",
+    "credits": 3,
+    "nameAr": "اللغة الإسبانية للمبتدئين (1)",
+    "nameEn": "Spanish for Beginners (I)",
+    "reqs": []
+  },
+  {
+    "id": "SL102",
+    "credits": 3,
+    "nameAr": "اللغة الإسبانية للمبتدئين (2)",
+    "nameEn": "Spanish for Beginners (II)",
+    "reqs": [
+      "SL101"
+    ]
+  },
+  {
+    "id": "STAT201",
+    "credits": 3,
+    "nameAr": "الاحصاء للعلوم الادارية و الاقتصادية",
+    "nameEn": "Statistics for administrative and economic sciences",
+    "reqs": [
+      "MATH201"
+    ]
+  },
+  {
+    "id": "SYS210",
+    "credits": 8,
+    "nameAr": "ادارة التكنولوجيا و الابتكار",
+    "nameEn": "Managing Technology and innovation",
+    "reqs": [
+      "B123"
+    ]
+  },
+  {
+    "id": "SYS280",
+    "credits": 8,
+    "nameAr": "مبادئ و ممارسات تفكير الانظمة",
+    "nameEn": "Principles and practices of System' Thinking",
+    "reqs": []
+  },
+  {
+    "id": "SYS380",
+    "credits": 8,
+    "nameAr": "ادارة تعقيد الانظمة",
+    "nameEn": "Managing System Complexity",
+    "reqs": [
+      "SYS280",
+      "BUS310"
+    ]
+  },
+  {
+    "id": "T215A",
+    "credits": 8,
+    "nameAr": "الاتصالات وتكنولوجيا المعلومات أ",
+    "nameEn": "Communication and Information Technologies A",
+    "reqs": [
+      "TM112"
+    ]
+  },
+  {
+    "id": "T215B",
+    "credits": 8,
+    "nameAr": "الاتصالات وتكنولوجيا المعلومات ب",
+    "nameEn": "Communication and Information Technologies B",
+    "reqs": [
+      "T215A"
+    ]
+  },
+  {
+    "id": "T216A",
+    "credits": 8,
+    "nameAr": "شبكات سيسكو (CCNA)",
+    "nameEn": "Cisco networking (CCNA)-A",
+    "reqs": [
+      "TM112"
+    ]
+  },
+  {
+    "id": "T216B",
+    "credits": 8,
+    "nameAr": "شبكات سيسكو (CCNA) -B",
+    "nameEn": "Cisco networking (CCNA)-B",
+    "reqs": [
+      "T216A"
+    ]
+  },
+  {
+    "id": "T227",
+    "credits": 8,
+    "nameAr": "التغيير والاستراتيجية والمشاريع في العمل",
+    "nameEn": "Change, strategy and projects at work",
+    "reqs": [
+      "TM112"
+    ]
+  },
+  {
+    "id": "T316",
+    "credits": 8,
+    "nameAr": "الشبكات المتقدمة",
+    "nameEn": " Advanced Networking",
+    "reqs": [
+      "T216B"
+    ]
+  },
+  {
+    "id": "T318",
+    "credits": 8,
+    "nameAr": "تطبيق أمن الشبكات",
+    "nameEn": "Applied Network Security",
+    "reqs": [
+      "T216B",
+      "TM260"
+    ]
+  },
+  {
+    "id": "TM103",
+    "credits": 4,
+    "nameAr": "تنظيم الكمبيوتر والهندسة المعمارية",
+    "nameEn": "Computer Organization and Architecture",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "TM105",
+    "credits": 4,
+    "nameAr": "مقدمة في البرمجة",
+    "nameEn": "Introduction to Programming",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "TM111",
+    "credits": 8,
+    "nameAr": "مقدمة في الحوسبة وتكنولوجيا المعلومات 1",
+    "nameEn": "Introduction to Computing and Information Technology 1",
+    "reqs": [
+      "EL111"
+    ]
+  },
+  {
+    "id": "TM112",
+    "credits": 8,
+    "nameAr": "مقدمة في الحوسبة وتكنولوجيا المعلومات 2",
+    "nameEn": "Introduction to Computing and Information Technology 2",
+    "reqs": [
+      "TM111"
+    ]
+  },
+  {
+    "id": "TM240",
+    "credits": 4,
+    "nameAr": "رسومات الحاسوب والوسائط المتعددة",
+    "nameEn": "Computer Graphics and Multimedia",
+    "reqs": [
+      "MT132",
+      "TM105"
+    ]
+  },
+  {
+    "id": "TM260",
+    "credits": 4,
+    "nameAr": "الأمن والأخلاق والخصوصية في تكنولوجيا المعلومات والحوسبة",
+    "nameEn": "Security, ethics and privacy in IT and Computing",
+    "reqs": []
+  },
+  {
+    "id": "TM287",
+    "credits": 3,
+    "nameAr": "تطوير تطبيقات الويب",
+    "nameEn": "Web Applications Development",
+    "reqs": [
+      "TM105"
+    ]
+  },
+  {
+    "id": "TM290",
+    "credits": 3,
+    "nameAr": "التشفير وأمن المعلومات",
+    "nameEn": "Cryptography and Information Security",
+    "reqs": [
+      "TM112"
+    ]
+  },
+  {
+    "id": "TM291",
+    "credits": 3,
+    "nameAr": "نظام إدارة المعلومات",
+    "nameEn": "Management Information System",
+    "reqs": [
+      "TM105",
+      "BUS110"
+    ]
+  },
+  {
+    "id": "TM295",
+    "credits": 3,
+    "nameAr": "نمذجة النظام",
+    "nameEn": "System Modelling",
+    "reqs": [
+      "MT132"
+    ]
+  },
+  {
+    "id": "TM297",
+    "credits": 3,
+    "nameAr": "طرق الضغط للوسائط المتعددة",
+    "nameEn": "Compression Methods for Multimedia",
+    "reqs": [
+      "TM112"
+    ]
+  },
+  {
+    "id": "TM298",
+    "credits": 4,
+    "nameAr": "أنظمة التشغيل",
+    "nameEn": "Operating Systems",
+    "reqs": [
+      "TM103",
+      "TM105"
+    ]
+  },
+  {
+    "id": "TM351",
+    "credits": 8,
+    "nameAr": "إدارة البيانات وتحليلها",
+    "nameEn": "Data management and analysis",
+    "reqs": [
+      "M269"
+    ]
+  },
+  {
+    "id": "TM352",
+    "credits": 8,
+    "nameAr": "تقنيات الويب والجوال والسحابة هندسة البرمجيات",
+    "nameEn": "Web, mobile and cloud technologies",
+    "reqs": [
+      "TM351",
+      "TT284",
+      "M251"
+    ]
+  },
+  {
+    "id": "TM354",
+    "credits": 8,
+    "nameAr": "هندسة البرمجيات",
+    "nameEn": "Software Engineering",
+    "reqs": [
+      "M251",
+      "M269"
+    ]
+  },
+  {
+    "id": "TM355",
+    "credits": 8,
+    "nameAr": "نولوجيا الاتصالات",
+    "nameEn": "Communications Technology",
+    "reqs": [
+      "T215B"
+    ]
+  },
+  {
+    "id": "TM356",
+    "credits": 8,
+    "nameAr": "تصميم التفاعل وتجربة المستخدم",
+    "nameEn": "Interaction design and user experience",
+    "reqs": [
+      "TT284"
+    ]
+  },
+  {
+    "id": "TM366",
+    "credits": 8,
+    "nameAr": "الذكاء الاصطناعي",
+    "nameEn": "Artificial intelligence",
+    "reqs": [
+      "M269"
+    ]
+  },
+  {
+    "id": "TM391",
+    "credits": 3,
+    "nameAr": "التجارة الالكترونية",
+    "nameEn": " E-Commerce",
+    "reqs": [
+      "M251",
+      "B207B"
+    ]
+  },
+  {
+    "id": "TM471-A",
+    "credits": 4,
+    "nameAr": "مشروع التليماتية",
+    "nameEn": "The Telematics project - A",
+    "reqs": [
+      "T316",
+      "T318",
+      "TM355",
+      "TM351",
+      "TM354",
+      "TM352",
+      "TM356"
+    ]
+  },
+  {
+    "id": "TM471-B",
+    "credits": 4,
+    "nameAr": "مشروع التليماتية",
+    "nameEn": "The Telematics project -B",
+    "reqs": [
+      "TM471-A"
+    ]
+  },
+  {
+    "id": "TR102",
+    "credits": 4,
+    "nameAr": "مقدمة في الترجمة",
+    "nameEn": "Introduction to Translation",
+    "reqs": [
+      "EL121N",
+      "EL121"
+    ]
+  },
+  {
+    "id": "TT284",
+    "credits": 8,
+    "nameAr": "تقنيات الويب",
+    "nameEn": "Web technologies",
+    "reqs": [
+      "TM112"
+    ]
+  },
+  {
+    "id": "TU170",
+    "credits": 3,
+    "nameAr": "اساسيات الحوسبة",
+    "nameEn": "Computing Essentials",
+    "reqs": []
+  },
+  {
+    "id": "U214A",
+    "credits": 8,
+    "nameAr": "عوالم اللغة الانجليزية (1)",
+    "nameEn": "Worlds of English (I)",
+    "reqs": [
+      "EL112",
+      "EL120"
+    ]
+  },
+  {
+    "id": "U214B",
+    "credits": 8,
+    "nameAr": "عوالم اللغة الانجليزية (2)",
+    "nameEn": "Worlds of English (II)",
+    "reqs": [
+      "U214A"
+    ]
+  },
+  {
+    "id": "URE",
+    "credits": 3,
+    "nameAr": "متطلب جامعة اختياري",
+    "nameEn": "University Requirement Elective",
+    "reqs": []
+  },
+  {
+    "id": "URE_1",
+    "credits": 3,
+    "nameAr": "متطلب جامعة اختياري",
+    "nameEn": "University Requirement Elective",
+    "reqs": []
+  },
+  {
+    "id": "URE_2",
+    "credits": 3,
+    "nameAr": "متطلب جامعة اختياري",
+    "nameEn": "University Requirement Elective",
+    "reqs": []
+  },
+  {
+    "id": "URE_3",
+    "credits": 3,
+    "nameAr": "متطلب جامعة اختياري",
+    "nameEn": "University Requirement Elective",
+    "reqs": []
+  },
+  {
+    "id": "URE1_1",
+    "credits": 3,
+    "nameAr": "متطلب جامعة اختياري",
+    "nameEn": "University Requirement Elective",
+    "reqs": []
+  },
+  {
+    "id": "URE2_1",
+    "credits": 3,
+    "nameAr": "متطلب جامعة اختياري",
+    "nameEn": "University Requirement Elective",
+    "reqs": []
+  }
+]

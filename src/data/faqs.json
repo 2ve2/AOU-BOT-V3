@@ -1,0 +1,158 @@
+{
+  "faqs": [
+    {
+      "id": 1,
+      "question": {
+        "ar": "ما هي شروط القبول بالجامعة؟",
+        "en": "What are the university admission requirements?"
+      },
+      "answer": {
+        "ar": "📋 *شروط القبول بالجامعة العربية المفتوحة*\n\n✅ *الشروط العامة:*\n\n1️⃣ *شهادة الثانوية العامة*\n• الحصول على شهادة الثانوية العامة الصادرة من وزارة التعليم السعودي\n• أو ما يعادلها من الدول الأخرى شريطة توثيقها من الجهات المعنية\n\n2️⃣ *الاختبارات المعتمدة*\n• أداء الاختبار التحصيلي واختبار القدرات\n• المعتمد من \"المركز الوطني للقياس\"\n\n3️⃣ *المسار العلمي*\n• أن تكون شهادة الثانوية العامة \"مسار علمي\" للقبول في كلية دراسات الحاسب الآلي\n\n⚠️ *ملاحظة هامة:*\nشهادات الثانوية الصادرة من مدارس أجنبية أو خارج السعودية يجب تصديقها من الجهات المعنية.",
+        "en": "📋 *Arab Open University Admission Requirements*\n\n✅ *General Requirements:*\n\n1️⃣ *High School Certificate*\n• Obtain a high school certificate issued by the Saudi Ministry of Education\n• Or equivalent from other countries, provided it is authenticated by relevant authorities\n\n2️⃣ *Approved Tests*\n• Take the achievement test and aptitude test\n• Approved by the \"National Center for Assessment\"\n\n3️⃣ *Scientific Track*\n• High school certificate must be in \"scientific track\" for admission to the College of Computing Studies\n\n⚠️ *Important Note:*\nHigh school certificates issued by foreign schools or outside Saudi Arabia must be authenticated by relevant authorities."
+      }
+    },
+    {
+      "id": 2,
+      "question": {
+        "ar": "ما هي البرامج المطروحة بالجامعة؟",
+        "en": "What programs are offered at the university?"
+      },
+      "answer": {
+        "ar": "🎓 *البرامج المطروحة بالجامعة*\n\n📚 *برامج البكالوريوس:*\n\n1️⃣ *بكالوريوس تقنية المعلومات والحوسبة*\n   Bachelor of Information Technology and Computing\n\n2️⃣ *بكالوريوس إدارة الأعمال*\n   Bachelor of Business Administration\n\n3️⃣ *بكالوريوس اللغة الإنجليزية وآدابها*\n   Bachelor of English Language and Literature",
+        "en": "🎓 *Programs Offered at the University*\n\n📚 *Bachelor Programs:*\n\n1️⃣ *Bachelor of Information Technology and Computing*\n\n2️⃣ *Bachelor of Business Administration*\n\n3️⃣ *Bachelor of English Language and Literature*"
+      }
+    },
+    {
+      "id": 3,
+      "question": {
+        "ar": "ما هي التخصصات والمسارات المعتمدة بالجامعة؟",
+        "en": "What are the accredited majors and tracks at the university?"
+      },
+      "answer": {
+        "ar": "🎯 *التخصصات والمسارات المعتمدة*\n\n💻 *بكالوريوس تقنية المعلومات والحوسبة:*\n• مسار تقنية معلومات وحوسبة\n  Information Technology and Computing\n• مسار علوم الحاسب\n  Computer Science\n• مسار الأمن والشبكات\n  Network and Security\n• مسار تطوير الويب\n  Web Development\n• مسار الحوسبة والأعمال\n  Computing with Business\n\n📊 *بكالوريوس إدارة الأعمال:*\n• مسار الأنظمة\n  Systems\n• مسار التسويق\n  Marketing\n• مسار المحاسبة\n  Accounting\n\n📚 *بكالوريوس اللغة الإنجليزية وآدابها:*\n• اللغة الإنجليزية وآدابها\n  English Language and Literature",
+        "en": "🎯 *Accredited Majors and Tracks*\n\n💻 *Bachelor of Information Technology and Computing:*\n• Information Technology and Computing\n• Computer Science\n• Network and Security\n• Web Development\n• Computing with Business\n\n📊 *Bachelor of Business Administration:*\n• Systems\n• Marketing\n• Accounting\n\n📚 *Bachelor of English Language and Literature:*\n• English Language and Literature"
+      }
+    },
+    {
+      "id": 4,
+      "question": {
+        "ar": "هل تدخل ساعات السنة التحضيرية ضمن الساعات اللازم إنجازها للبرنامج؟",
+        "en": "Do preparatory year hours count toward program completion hours?"
+      },
+      "answer": {
+        "ar": "📚 *ساعات السنة التحضيرية*\n\n❌ *الإجابة:*\nبرنامج الدورات المكثفة لا يدخل ضمن عدد الساعات المعتمدة للبرنامج.\n\nℹ️ *ملاحظة:*\nالدورات المكثفة (EL097, EL098, EL099) هي دورات تأسيسية في اللغة الإنجليزية ولا تحتسب ضمن الساعات المعتمدة للتخرج.",
+        "en": "📚 *Preparatory Year Hours*\n\n❌ *Answer:*\nThe intensive courses program does not count toward the program's credit hours.\n\nℹ️ *Note:*\nIntensive courses (EL097, EL098, EL099) are foundational English courses and are not counted toward graduation credit hours."
+      }
+    },
+    {
+      "id": 5,
+      "question": {
+        "ar": "هل الجامعة العربية المفتوحة معتمدة؟",
+        "en": "Is the Arab Open University accredited?"
+      },
+      "answer": {
+        "ar": "✅ *اعتماد الجامعة العربية المفتوحة*\n\n🎓 *نعم، الجامعة معتمدة!*\n\n📜 *الاعتمادات:*\n\n1️⃣ *الاعتماد المحلي*\n• معتمدة لدى وزارة التعليم بالسعودية\n\n2️⃣ *الاعتماد الدولي*\n• شراكة واعتماد مع الجامعة المفتوحة ببريطانيا\n• الجامعة المفتوحة ببريطانيا تعد من أفضل الجامعات البريطانية\n\n🌟 *ملاحظة:*\nالشهادات معتمدة محلياً ودولياً.",
+        "en": "✅ *Arab Open University Accreditation*\n\n🎓 *Yes, the university is accredited!*\n\n📜 *Accreditations:*\n\n1️⃣ *Local Accreditation*\n• Accredited by the Saudi Ministry of Education\n\n2️⃣ *International Accreditation*\n• Partnership and accreditation with The Open University UK\n• The Open University UK is considered one of the best British universities\n\n🌟 *Note:*\nCertificates are accredited locally and internationally."
+      }
+    },
+    {
+      "id": 6,
+      "question": {
+        "ar": "ما هي البرامج والمسارات المطروحة بالجامعة؟",
+        "en": "What are the programs and tracks offered at the university?"
+      },
+      "answer": {
+        "ar": "🎓 *البرامج والمسارات المطروحة*\n\n📊 *كلية دراسات إدارة الأعمال*\n\n• بكالوريوس دراسات الأعمال (التسويق)\n  Bachelor of Business Studies (Marketing)\n\n• بكالوريوس دراسات الأعمال (الأنظمة)\n  Bachelor of Business Studies (Systems)\n\n• بكالوريوس دراسات الأعمال (المحاسبة)\n  Bachelor of Business Studies (Accounting)\n\n• بكالوريوس دراسات الأعمال (المحاسبة باللغة العربية)\n  Bachelor of Business Studies (Accounting in Arabic)\n\n💻 *كلية دراسات الحاسب الآلي*\n\n• بكالوريوس تكنولوجيا المعلومات والحوسبة\n  Bachelor of Information Technology and Computing\n\n• بكالوريوس تكنولوجيا المعلومات والحوسبة (علوم الكمبيوتر)\n  Bachelor of IT and Computing (Computer Science)\n\n• بكالوريوس تكنولوجيا المعلومات والحوسبة (الحوسبة مع الأعمال)\n  Bachelor of IT and Computing (Computing with Business)\n\n• بكالوريوس تكنولوجيا المعلومات والحوسبة (تطوير الويب)\n  Bachelor of IT and Computing (Web Development)\n\n• بكالوريوس تكنولوجيا المعلومات والحوسبة (الشبكات والأمن)\n  Bachelor of IT and Computing (Network and Security)\n\n📚 *كلية الدراسات اللغوية*\n\n• بكالوريوس اللغة الإنجليزية وآدابها\n  Bachelor of English Language and Literature",
+        "en": "🎓 *Programs and Tracks Offered*\n\n📊 *College of Business Studies*\n\n• Bachelor of Business Studies (Marketing)\n\n• Bachelor of Business Studies (Systems)\n\n• Bachelor of Business Studies (Accounting)\n\n• Bachelor of Business Studies (Accounting in Arabic)\n\n💻 *College of Computing Studies*\n\n• Bachelor of Information Technology and Computing\n\n• Bachelor of IT and Computing (Computer Science)\n\n• Bachelor of IT and Computing (Computing with Business)\n\n• Bachelor of IT and Computing (Web Development)\n\n• Bachelor of IT and Computing (Network and Security)\n\n📚 *College of Language Studies*\n\n• Bachelor of English Language and Literature"
+      }
+    },
+    {
+      "id": 7,
+      "question": {
+        "ar": "ما هي أنواع المنح الدراسية وما هي شروطها؟",
+        "en": "What are the types of scholarships and their conditions?"
+      },
+      "answer": {
+        "ar": "🎁 *المنح الدراسية*\n\n🏆 *منح التفوق:*\n\n📋 *الشروط:*\n• يتم احتساب منح التفوق عن طريق المفاضلة\n• يمنح العشرة الأوائل الحاصلين على أعلى معدل من 4\n• المجتازين لأكثر عدد ساعات معتمدة\n• يتم منحها عن طريق إدارة الجامعة\n\n💰 *منح الجامعة العربية المفتوحة (صندوق الطالب):*\n\n📋 *الشروط:*\n1️⃣ أن يكون الطالب منتظماً في الدراسة\n2️⃣ مسجلاً للمقررات الدراسية في الفصل الدراسي الذي يتقدم فيه بطلب المنحة\n3️⃣ أن يكون الطالب قد أنهى ما لا يقل عن (16) ساعة\n4️⃣ أن لا يقل معدله عن (2.00)\n5️⃣ أن لا يكون على الطالب أي ذمة مالية سابقة\n6️⃣ أن يدفع الطالب الرسوم الأخرى عدا رسوم الساعات الدراسية\n7️⃣ إلى أن يصدر قرار لجنة صندوق الطالب بالموافقة أو عدمها\n8️⃣ أن يستوفي الطالب كافة الاشتراطات المتبقية\n\nℹ️ *للاستفسار:*\nيرجى مراجعة قسم شؤون الطلبة",
+        "en": "🎁 *Scholarships*\n\n🏆 *Excellence Scholarships:*\n\n📋 *Conditions:*\n• Excellence scholarships are awarded through competition\n• Top 10 students with highest GPA out of 4\n• Those who have completed the most credit hours\n• Awarded by university administration\n\n💰 *Arab Open University Scholarships (Student Fund):*\n\n📋 *Conditions:*\n1️⃣ Student must be regularly enrolled\n2️⃣ Registered for courses in the semester applying for the scholarship\n3️⃣ Must have completed at least (16) credit hours\n4️⃣ GPA must not be less than (2.00)\n5️⃣ No previous financial obligations\n6️⃣ Student must pay other fees except course credit hour fees\n7️⃣ Until the Student Fund Committee decides approval or rejection\n8️⃣ Student must meet all remaining conditions\n\nℹ️ *For inquiries:*\nPlease visit the Student Affairs department"
+      }
+    },
+    {
+      "id": 8,
+      "question": {
+        "ar": "ما هي تكلفة الدراسة بالفصل الدراسي الواحد؟",
+        "en": "What is the cost of study per semester?"
+      },
+      "answer": {
+        "ar": "💰 *تكلفة الدراسة بالفصل الدراسي*\n\n📊 *نظام الرسوم:*\nترتبط الرسوم الدراسية للفصل الدراسي الواحد بعدد الساعات التي يسجلها الطالب.\n\n💵 *التكلفة التقديرية:*\nتتراوح بين 6,000 – 10,000 ريال سعودي\n\nℹ️ *ملاحظة:*\nالرسوم تختلف حسب عدد الساعات المسجلة والتخصص.",
+        "en": "💰 *Cost of Study Per Semester*\n\n📊 *Fee System:*\nTuition fees per semester are linked to the number of credit hours the student registers for.\n\n💵 *Estimated Cost:*\nRanges between 6,000 – 10,000 Saudi Riyals\n\nℹ️ *Note:*\nFees vary based on the number of registered credit hours and major."
+      }
+    },
+    {
+      "id": 9,
+      "question": {
+        "ar": "ما هو الإنذار الأكاديمي وهل هناك سقف أعلى للإنذار؟",
+        "en": "What is academic warning and is there a maximum limit for warnings?"
+      },
+      "answer": {
+        "ar": "⚠️ *الإنذار الأكاديمي*\n\n📋 *التعريف:*\nالإنذار الأكاديمي هو إنذار الطالب في حالة نقص معدله التراكمي عن 2 من 4.\n\n🚫 *سقف الإنذارات:*\nإذا حصل الطالب على خمس إنذارات أكاديمية يتم فصله من الجامعة.\n\n🔄 *إعادة القيد:*\nيحق له إعادة قيده في تخصص آخر.\n\n📊 *المعدل التراكمي:*\n• أقل من 2.0 = إنذار أكاديمي\n• 2.0 فما فوق = وضع أكاديمي سليم",
+        "en": "⚠️ *Academic Warning*\n\n📋 *Definition:*\nAcademic warning is issued to a student when their cumulative GPA falls below 2 out of 4.\n\n🚫 *Warning Limit:*\nIf a student receives five academic warnings, they will be dismissed from the university.\n\n🔄 *Re-enrollment:*\nThey have the right to re-enroll in another major.\n\n📊 *Cumulative GPA:*\n• Below 2.0 = Academic warning\n• 2.0 and above = Good academic standing"
+      }
+    },
+    {
+      "id": 10,
+      "question": {
+        "ar": "كيف يمكن للطالب تقديم طلب تأجيل للامتحان النصفي؟",
+        "en": "How can a student submit a request to defer the midterm exam?"
+      },
+      "answer": {
+        "ar": "📝 *تأجيل الامتحان النصفي*\n\n📋 *الخطوات:*\n1️⃣ تقديم عذر مقبول لدى قسم شؤون الطلبة\n2️⃣ دفع رسوم تأجيل الامتحان\n\n⚠️ *الاستثناءات:*\nيستثنى من الرسوم الحالات التي لديها أعذار قهرية.\n\nℹ️ *ملاحظة:*\nيجب تقديم الطلب قبل موعد الامتحان بوقت كافٍ.",
+        "en": "📝 *Deferring Midterm Exam*\n\n📋 *Steps:*\n1️⃣ Submit an acceptable excuse to the Student Affairs department\n2️⃣ Pay the exam deferral fee\n\n⚠️ *Exceptions:*\nCases with compelling excuses are exempt from fees.\n\nℹ️ *Note:*\nThe request must be submitted well before the exam date."
+      }
+    },
+    {
+      "id": 11,
+      "question": {
+        "ar": "كيف يمكن للطالب تقديم طلب تأجيل للامتحان النهائي؟",
+        "en": "How can a student submit a request to defer the final exam?"
+      },
+      "answer": {
+        "ar": "📝 *تأجيل الامتحان النهائي*\n\n📋 *الخطوات:*\n1️⃣ تقديم عذر مقبول لدى قسم شؤون الطلبة\n2️⃣ دفع رسوم تأجيل الامتحان\n\n⚠️ *الاستثناءات:*\nيستثنى من الرسوم الحالات التي لديها أعذار قهرية.\n\nℹ️ *ملاحظة:*\nيجب تقديم الطلب قبل موعد الامتحان بوقت كافٍ.",
+        "en": "📝 *Deferring Final Exam*\n\n📋 *Steps:*\n1️⃣ Submit an acceptable excuse to the Student Affairs department\n2️⃣ Pay the exam deferral fee\n\n⚠️ *Exceptions:*\nCases with compelling excuses are exempt from fees.\n\nℹ️ *Note:*\nThe request must be submitted well before the exam date."
+      }
+    },
+    {
+      "id": 12,
+      "question": {
+        "ar": "ما هي طريقة سداد الرسوم التي تعتمدها الجامعة؟",
+        "en": "What are the university's accepted payment methods?"
+      },
+      "answer": {
+        "ar": "💳 *طرق سداد الرسوم*\n\n✅ *الطرق المقبولة:*\n\n1️⃣ *السداد المباشر*\n• عبر خدمة الدفع الإلكتروني\n• من خلال موقع الجامعة\n• بعد الدخول إلى نظام خدمات الطالب\n\n2️⃣ *السداد عبر خدمة سداد*\n• رقم المفوتر: 017\n\n❌ *الطرق المرفوضة:*\n• الإيداع أو التحويل على حسابات الجامعة غير مسموح به نهائياً\n\n⚠️ *تحذير هام:*\nيتحمل الطالب أي تبعات لذلك في حال تم حذف جدوله.",
+        "en": "💳 *Payment Methods*\n\n✅ *Accepted Methods:*\n\n1️⃣ *Direct Payment*\n• Through electronic payment service\n• Via the university website\n• After logging into student services system\n\n2️⃣ *SADAD Payment*\n• Biller number: 017\n\n❌ *Rejected Methods:*\n• Deposit or transfer to university accounts is strictly prohibited\n\n⚠️ *Important Warning:*\nStudent bears any consequences if their schedule is deleted."
+      }
+    },
+    {
+      "id": 13,
+      "question": {
+        "ar": "ما هو بريد الطالب الإلكتروني؟",
+        "en": "What is the student's email?"
+      },
+      "answer": {
+        "ar": "📧 *بريد الطالب الإلكتروني*\n\n📝 *الصيغة:*\nstudentidKSA@aou.edu.sa\n\n📌 *مثال:*\n23456789KSA@aou.edu.sa\n\n🔗 *رابط الوصول:*\nhttp://outlook.office.com\n\n🔑 *كلمة المرور الافتراضية:*\nرقم بطاقة الهوية للطالب\n\n⚠️ *ملاحظة:*\nيجب تغيير كلمة المرور بعد أول تسجيل دخول.",
+        "en": "📧 *Student Email*\n\n📝 *Format:*\nstudentidKSA@aou.edu.sa\n\n📌 *Example:*\n23456789KSA@aou.edu.sa\n\n🔗 *Access Link:*\nhttp://outlook.office.com\n\n🔑 *Default Password:*\nStudent ID number\n\n⚠️ *Note:*\nPassword must be changed after first login."
+      }
+    },
+    {
+      "id": 14,
+      "question": {
+        "ar": "ما هي الشهادات التي يحصل عليها الطالب عند تخرجه؟",
+        "en": "What certificates does a student receive upon graduation?"
+      },
+      "answer": {
+        "ar": "🎓 *الشهادات عند التخرج*\n\nيحصل الطالب على ثلاث شهادات حال تخرجه:\n\n1️⃣ *شهادة من الجامعة العربية المفتوحة بالمملكة العربية السعودية*\n   Certificate from Arab Open University in Saudi Arabia\n\n2️⃣ *شهادة من الجامعة المفتوحة ببريطانيا*\n   Certificate from The Open University UK\n\n3️⃣ *الشهادة الكويتية (الجدارية)*\n   Kuwaiti Certificate (Wall Certificate)\n\n🌟 *ملاحظة:*\nجميع الشهادات معتمدة ومعترف بها.",
+        "en": "🎓 *Certificates Upon Graduation*\n\nA student receives three certificates upon graduation:\n\n1️⃣ *Certificate from Arab Open University in Saudi Arabia*\n\n2️⃣ *Certificate from The Open University UK*\n\n3️⃣ *Kuwaiti Certificate (Wall Certificate)*\n\n🌟 *Note:*\nAll certificates are accredited and recognized."
+      }
+    }
+  ]
+}

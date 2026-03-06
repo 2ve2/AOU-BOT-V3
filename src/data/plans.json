@@ -1,0 +1,84 @@
+{
+  "plan": [
+    {
+      "name": {
+        "ar": "الأنظمة",
+        "en": "Systems"
+      },
+      "file_id_ar": "BQACAgQAAxkDAAIUCGmrNggqEcn440hurp94r9174btYAALTFQACIXHoUQyLcb99azxIOgQ",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAANBaZdhGGAhnSbVijJ_MsDEZcIBfc0AAqwhAAJUaMBQonwEo4u9McE6BA"
+    },
+    {
+      "name": {
+        "ar": "الحوسبة مع الأعمال",
+        "en": "Computing with Business"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPOaas2vniOcjKFXxYE0ya8m8SZ6tsAAtQVAAIhcehRoSBEulm8_7k6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAAM8aZdhGMkQRs1d_EgC8u1C0zIzTtwAArAhAAJUaMBQ3Bj0Oj7iFeg6BA"
+    },
+    {
+      "name": {
+        "ar": "الشبكات و أمن المعلومات",
+        "en": "Networks and Information Security"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPPaas2vrqjpqoYYRkhXUv-l8GIZT0AAtcVAAIhcehRr5b0st4ay4o6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAANAaZdhGOr0dlVXX8ORNcRfi1lmqWsAAq4hAAJUaMBQRFYq-9Pr7Yo6BA"
+    },
+    {
+      "name": {
+        "ar": "المحاسبة بالانجليزي",
+        "en": "Accounting in English"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPQaas2vog_TrPxJKjSqO9m_jPqcvQAAtIVAAIhcehR2YZFftjRWOE6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAAM6aZdhGJM3RHK8VqfKOnhPjGjU8lMAArIhAAJUaMBQuDVFNjRWtfE6BA"
+    },
+    {
+      "name": {
+        "ar": "المحاسبة بالعربي",
+        "en": "Accounting in Arabic"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPSaas2vm40p8-MUJvOkJAvdQ0TWlUAAtYVAAIhcehRzjK125lkM8A6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAAM5aZdhGJktZixKcH-E3oifj0D3DTcAArMhAAJUaMBQ5eyx7JYXsHk6BA"
+    },
+    {
+      "name": {
+        "ar": "تسويق",
+        "en": "Marketing"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPRaas2vszUJ-XZRt2qTjeSmeGAQXcAAtUVAAIhcehRKQs_XsFPipc6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAAM_aZdhGNDg1MCWv8b06rRyq0gePzEAAq0hAAJUaMBQOuHz2XIzsqQ6BA"
+    },
+    {
+      "name": {
+        "ar": "تطوير الويب",
+        "en": "Web Development"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPUaas2voUTnlV5PmMWzJSzH6ROKnEAAtgVAAIhcehRLTtIpN3dgGg6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAANCaZdhGA9yc4h20mcuj5bSJeO0amgAArQhAAJUaMBQItQIFo4Gx5s6BA"
+    },
+    {
+      "name": {
+        "ar": "تقنية المعلومات",
+        "en": "Information Technology"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPTaas2vlJMqUOCopsyN8X_5o-bTMgAAtoVAAIhcehRFV3qrirHpYI6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAAM-aZdhGLpWz2qM7PMk1fR7p7S4UtMAAqshAAJUaMBQ2JG7rrDerpk6BA"
+    },
+    {
+      "name": {
+        "ar": "علوم الحاسب",
+        "en": "Computer Science"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPWaas2vp1lTPnbnwIx66sa1CvjmDIAAtkVAAIhcehRtHiR-1YEHmI6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAAM7aZdhGBUmAZqinIyO2mSDrw4GgWQAArEhAAJUaMBQiZWJc7pocuk6BA"
+    },
+    {
+      "name": {
+        "ar": "اللغة الانجليزية و آدابها",
+        "en": "English Language and Literature"
+      },
+      "file_id_ar": "BQACAgQAAyEFAATNxaRXAAPVaas2vkYTF-iBfA6XhN8Lwqz6ivgAAtsVAAIhcehRUOuC_3vPJzk6BA",
+      "file_id_en": "BQACAgQAAyEFAATNxaRXAAM9aZdhGOtEpDzkRfCVf4DdDoLlkzIAAq8hAAJUaMBQPNLG5z3x1rQ6BA"
+    }
+  ]
+}

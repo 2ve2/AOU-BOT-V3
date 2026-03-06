@@ -1,0 +1,769 @@
+{
+  "courses": [
+    {
+      "id": "A230A",
+      "price": "2312",
+      "package": "563"
+    },
+    {
+      "id": "A230B",
+      "price": "2312",
+      "package": "0"
+    },
+    {
+      "id": "AA100A",
+      "price": "2312",
+      "package": "495"
+    },
+    {
+      "id": "AA100B",
+      "price": "2312",
+      "package": "0"
+    },
+    {
+      "id": "ACC300",
+      "price": "1248",
+      "package": "142.5"
+    },
+    {
+      "id": "ACC302",
+      "price": "1248",
+      "package": "142.5"
+    },
+    {
+      "id": "ACCT201",
+      "price": "936",
+      "package": "38"
+    },
+    {
+      "id": "ACCT202",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT250",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT301",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT305",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT306",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT307",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT311",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT320",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT322",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT330",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT340",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT345",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT350",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT401",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT402",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT403",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT412",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT413",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT420",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT430/6",
+      "price": "1872",
+      "package": "0"
+    },
+    {
+      "id": "AFL111",
+      "price": "687",
+      "package": "86"
+    },
+    {
+      "id": "AFL112",
+      "price": "687",
+      "package": "86"
+    },
+    {
+      "id": "AR111",
+      "price": "687",
+      "package": "56"
+    },
+    {
+      "id": "AR112",
+      "price": "687",
+      "package": "56"
+    },
+    {
+      "id": "B122",
+      "price": "2496",
+      "package": "619"
+    },
+    {
+      "id": "B123",
+      "price": "2496",
+      "package": "41"
+    },
+    {
+      "id": "B124",
+      "price": "2496",
+      "package": "56.24"
+    },
+    {
+      "id": "B205A",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "B205B",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "B207A",
+      "price": "2496",
+      "package": "1113.75"
+    },
+    {
+      "id": "B207B",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "B291",
+      "price": "2496",
+      "package": "330"
+    },
+    {
+      "id": "B292",
+      "price": "2496",
+      "package": "251.25"
+    },
+    {
+      "id": "B324",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "B325",
+      "price": "2496",
+      "package": "315"
+    },
+    {
+      "id": "B326",
+      "price": "2496",
+      "package": "285"
+    },
+    {
+      "id": "B327",
+      "price": "2496",
+      "package": "120"
+    },
+    {
+      "id": "B392",
+      "price": "2496",
+      "package": "266"
+    },
+    {
+      "id": "BAS400",
+      "price": "1248",
+      "package": "0"
+    },
+    {
+      "id": "BE200",
+      "price": "936",
+      "package": "255"
+    },
+    {
+      "id": "BE210/4",
+      "price": "1248",
+      "package": "296.25"
+    },
+    {
+      "id": "BUS101",
+      "price": "1248",
+      "package": "191.25"
+    },
+    {
+      "id": "BUS102",
+      "price": "1248",
+      "package": "191.25"
+    },
+    {
+      "id": "BUS110",
+      "price": "2496",
+      "package": "191.25"
+    },
+    {
+      "id": "BUS115",
+      "price": "1248",
+      "package": "188"
+    },
+    {
+      "id": "BUS310",
+      "price": "2496",
+      "package": "150"
+    },
+    {
+      "id": "CAS400",
+      "price": "1248",
+      "package": "0"
+    },
+    {
+      "id": "E304A",
+      "price": "2312",
+      "package": "258.75"
+    },
+    {
+      "id": "E304B",
+      "price": "2312",
+      "package": "0"
+    },
+    {
+      "id": "EA300A",
+      "price": "2312",
+      "package": "727.5"
+    },
+    {
+      "id": "EA300B",
+      "price": "2312",
+      "package": "303.75"
+    },
+    {
+      "id": "ECO101",
+      "price": "1248",
+      "package": "191.25"
+    },
+    {
+      "id": "ECON201",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ECON202",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "EL097",
+      "price": "2600",
+      "package": "281"
+    },
+    {
+      "id": "EL098",
+      "price": "2600",
+      "package": "281"
+    },
+    {
+      "id": "EL099",
+      "price": "2600",
+      "package": "281"
+    },
+    {
+      "id": "EL099E",
+      "price": "2600",
+      "package": "281"
+    },
+    {
+      "id": "EL111",
+      "price": "687",
+      "package": "300"
+    },
+    {
+      "id": "EL111E",
+      "price": "687",
+      "package": "300"
+    },
+    {
+      "id": "EL112",
+      "price": "687",
+      "package": "300"
+    },
+    {
+      "id": "EL112E",
+      "price": "687",
+      "package": "300"
+    },
+    {
+      "id": "EL117",
+      "price": "1156",
+      "package": "78.75"
+    },
+    {
+      "id": "EL118",
+      "price": "1156",
+      "package": "176"
+    },
+    {
+      "id": "EL119",
+      "price": "1156",
+      "package": "126"
+    },
+    {
+      "id": "EL120",
+      "price": "1156",
+      "package": "75"
+    },
+    {
+      "id": "EL121N",
+      "price": "1156",
+      "package": "619"
+    },
+    {
+      "id": "EL122",
+      "price": "1156",
+      "package": "154"
+    },
+    {
+      "id": "FIN301",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "FIN302",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "FR101",
+      "price": "867",
+      "package": "274"
+    },
+    {
+      "id": "GR101",
+      "price": "687",
+      "package": "56"
+    },
+    {
+      "id": "GR101EL",
+      "price": "687",
+      "package": "210"
+    },
+    {
+      "id": "GR111",
+      "price": "687",
+      "package": "75"
+    },
+    {
+      "id": "GR112",
+      "price": "687",
+      "package": "0"
+    },
+    {
+      "id": "GR118",
+      "price": "687",
+      "package": "0"
+    },
+    {
+      "id": "LAS400",
+      "price": "1156",
+      "package": "0"
+    },
+    {
+      "id": "LAW301",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "LB170",
+      "price": "2496",
+      "package": "135"
+    },
+    {
+      "id": "M105",
+      "price": "936",
+      "package": "323"
+    },
+    {
+      "id": "M109",
+      "price": "936",
+      "package": "165"
+    },
+    {
+      "id": "M129",
+      "price": "936",
+      "package": "278"
+    },
+    {
+      "id": "M130",
+      "price": "936",
+      "package": "323"
+    },
+    {
+      "id": "M131",
+      "price": "936",
+      "package": "266"
+    },
+    {
+      "id": "M132",
+      "price": "936",
+      "package": "266"
+    },
+    {
+      "id": "M251",
+      "price": "2496",
+      "package": "528.75"
+    },
+    {
+      "id": "M257",
+      "price": "1560",
+      "package": "199"
+    },
+    {
+      "id": "M269",
+      "price": "2496",
+      "package": "210"
+    },
+    {
+      "id": "M275",
+      "price": "936",
+      "package": "195"
+    },
+    {
+      "id": "MATH201",
+      "price": "936",
+      "package": "40"
+    },
+    {
+      "id": "MGT201",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "MGT202",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "MGT301",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "MIS201",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "MKT201",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "MKT331",
+      "price": "1248",
+      "package": "0"
+    },
+    {
+      "id": "MKT332",
+      "price": "1248",
+      "package": "0"
+    },
+    {
+      "id": "MT101",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "MT129",
+      "price": "1248",
+      "package": "278"
+    },
+    {
+      "id": "MT131",
+      "price": "1248",
+      "package": "266.25"
+    },
+    {
+      "id": "MT132",
+      "price": "1248",
+      "package": "266.25"
+    },
+    {
+      "id": "STAT201",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "SYS210",
+      "price": "2496",
+      "package": "150"
+    },
+    {
+      "id": "SYS280",
+      "price": "2496",
+      "package": "150"
+    },
+    {
+      "id": "SYS380",
+      "price": "2496",
+      "package": "142"
+    },
+    {
+      "id": "T103",
+      "price": "936",
+      "package": "266"
+    },
+    {
+      "id": "T215A",
+      "price": "2496",
+      "package": "240"
+    },
+    {
+      "id": "T215B",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "T227",
+      "price": "2496",
+      "package": "78.75"
+    },
+    {
+      "id": "T316",
+      "price": "2496",
+      "package": "270"
+    },
+    {
+      "id": "T318",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "TM103",
+      "price": "1248",
+      "package": "266.25"
+    },
+    {
+      "id": "TM105",
+      "price": "1248",
+      "package": "528.75"
+    },
+    {
+      "id": "TM111",
+      "price": "2496",
+      "package": "75"
+    },
+    {
+      "id": "TM112",
+      "price": "2496",
+      "package": "75"
+    },
+    {
+      "id": "TM240",
+      "price": "1248",
+      "package": "146"
+    },
+    {
+      "id": "TM298",
+      "price": "1248",
+      "package": "142.5"
+    },
+    {
+      "id": "TM351",
+      "price": "2496",
+      "package": "63.75"
+    },
+    {
+      "id": "TM352",
+      "price": "2496",
+      "package": "75"
+    },
+    {
+      "id": "TM354",
+      "price": "2496",
+      "package": "75"
+    },
+    {
+      "id": "TM355",
+      "price": "2496",
+      "package": "75"
+    },
+    {
+      "id": "TM356",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "TM366",
+      "price": "2496",
+      "package": "221.25"
+    },
+    {
+      "id": "TT284",
+      "price": "2496",
+      "package": "146"
+    },
+    {
+      "id": "TU170",
+      "price": "687",
+      "package": "281"
+    },
+    {
+      "id": "U214A",
+      "price": "2312",
+      "package": "399"
+    },
+    {
+      "id": "U214B",
+      "price": "2312",
+      "package": "0"
+    },
+    {
+      "id": "URE_1",
+      "price": "687",
+      "package": "75"
+    },
+    {
+      "id": "URE1_1",
+      "price": "687",
+      "package": "75"
+    },
+    {
+      "id": "URE2_1",
+      "price": "687",
+      "package": "75"
+    },
+    {
+      "id": "FRE1_1",
+      "price": "2496",
+      "package": "41"
+    },
+    {
+      "id": "FRE2_1",
+      "price": "2496",
+      "package": "41"
+    },
+    {
+      "id": "FRE1_12",
+      "price": "2496",
+      "package": "41"
+    },
+    {
+      "id": "FRE2_12",
+      "price": "2496",
+      "package": "41"
+    },
+    {
+      "id": "URE_2",
+      "price": "687",
+      "package": "75"
+    },
+    {
+      "id": "FRE1_2",
+      "price": "936",
+      "package": "165"
+    },
+    {
+      "id": "FRE2_2",
+      "price": "936",
+      "package": "165"
+    },
+    {
+      "id": "URE_3",
+      "price": "867",
+      "package": "274"
+    },
+    {
+      "id": "TM471-A",
+      "price": "1248",
+      "package": "300"
+    },
+    {
+      "id": "TM471-B",
+      "price": "1248",
+      "package": "0"
+    },
+    {
+      "id": "CAS400_25",
+      "price": "1248",
+      "package": "0"
+    },
+    {
+      "id": "T216A",
+      "price": "2496",
+      "package": "338"
+    },
+    {
+      "id": "T216B",
+      "price": "2496",
+      "package": "0"
+    },
+    {
+      "id": "GR101/GR101EL",
+      "price": "687",
+      "package": "56"
+    },
+    {
+      "id": "ACC350",
+      "price": "936",
+      "package": "0"
+    },
+    {
+      "id": "ACCT6/430",
+      "price": "1872",
+      "package": "0"
+    }
+  ]
+}
